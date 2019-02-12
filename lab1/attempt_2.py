@@ -71,12 +71,13 @@ for _ ,line in enumerate(train_set):
     #     break
 
 
+# returns a list of tuples
 def featurize(vocab, label):
     features = []
     for word in vocab:
         curr_dict  = {}
         curr_dict[word]  = label
-        features.append(curr_dict)
+        features.append( (curr_dict, True) )
     return features
 
 
@@ -88,9 +89,11 @@ positive_features = featurize(positive_vocab, 'pos')
 negative_features = featurize(negative_vocab, 'neg')
 # print(positive_features)
 # print(negative_features)
-print("neg_fe: "  + str(negative_features))
-print("pos_fe: " + str(positive_features))
-train_set = negative_features + positive_features
+# print("neg_fe: "  + str(negative_features))
+# print("pos_fe: " + str(positive_features))
+
+
+train_set = list(negative_features) + list(positive_features)
 
 classifier = NaiveBayesClassifier.train(train_set)
 tot_pos = 0
@@ -100,65 +103,65 @@ def features(words):
     return dict([(word, True) for word in words])
 
 # Clean up test_set
-for _ ,line in enumerate(test_set):
-    review = line[line.find(',')+1:line.rfind(',')]
-    score = float(line[line.rfind(', ')+1:].rstrip("\n"))
-    # Can fine-tune the trimming of punctutation later if accuracy is to low
-    # These are just preliminary filters
-    review = review.replace('<br />', " ")
-    review = review.replace('.', " ")
-    review = review.replace('-', " ")
-    # Remove punctuation, lowercase entire string, split with the (" ") delimiter, remove empty strings
-    #remove punctuation
-    review = review.translate(review.maketrans('','',string.punctuation))
-    #lowercase
-    review = review.lower()
-    review_text = review
-    # review = filter(None, review.split(" "))
-    review = review.split(' ')
-    # words = sentence.split(' ')
-    neg = 0
-    pos = 0
-    classResult = classifier.classify(features(review))
-    # print(classResult)
-    for word in review:
-        classResult = classifier.classify( word_feats(word))
-        print(word + "  result: " + classResult)
-        if classResult == 'neg':
-            neg = neg + 1
-        if classResult == 'pos':
-            pos = pos + 1
-    if(pos > neg):
-        tot_pos += 1
-    else:
-        tot_neg += 1
-    tot_pos += pos
-    tot_neg += neg
-    pos = 0
-    neg = 0
-print('Positive: ' + str(float(tot_pos)))
-print('Negative: ' + str(float(tot_neg)))
+# for _ ,line in enumerate(test_set):
+#     review = line[line.find(',')+1:line.rfind(',')]
+#     score = float(line[line.rfind(', ')+1:].rstrip("\n"))
+#     # Can fine-tune the trimming of punctutation later if accuracy is to low
+#     # These are just preliminary filters
+#     review = review.replace('<br />', " ")
+#     review = review.replace('.', " ")
+#     review = review.replace('-', " ")
+#     # Remove punctuation, lowercase entire string, split with the (" ") delimiter, remove empty strings
+#     #remove punctuation
+#     review = review.translate(review.maketrans('','',string.punctuation))
+#     #lowercase
+#     review = review.lower()
+#     review_text = review
+#     # review = filter(None, review.split(" "))
+#     review = review.split(' ')
+#     # words = sentence.split(' ')
+#     neg = 0
+#     pos = 0
+#     # print(classResult)
+#     for word in review:
+#         classResult = classifier.classify( word_feats(word))
+#         # print(word + "  result: " + classResult)
+#         if classResult == 'neg':
+#             neg = neg + 1
+#         if classResult == 'pos':
+#             pos = pos + 1
+#     if(pos > neg):
+#         tot_pos += 1
+#     else:
+#         tot_neg += 1
+#     tot_pos += pos
+#     tot_neg += neg
+#     pos = 0
+#     neg = 0
+# print('Positive: ' + str(float(tot_pos)))
+# print('Negative: ' + str(float(tot_neg)))
 
 
-print("TOTAL POSITIVE (ABOVE 2.5): " + str(tot_pos))
-print("TOTAL NEGATIVE (BELOW 2.5): " + str(tot_neg))
+# print("TOTAL POSITIVE (ABOVE 2.5): " + str(tot_pos))
+# print("TOTAL NEGATIVE (BELOW 2.5): " + str(tot_neg))
 
 
 # Predict
-# neg = 0
-# pos = 0
-# sentence = "Awesome movie, I liked it"
-# sentence = sentence.lower()
-# words = sentence.split(' ')
-# for word in words:
-#     classResult = classifier.classify( word_feats(word))
-#     if classResult == 'neg':
-#         neg = neg + 1
-#     if classResult == 'pos':
-#         pos = pos + 1
+neg = 0
+pos = 0
+sentence = "Awful"
+sentence = sentence.lower()
+words = sentence.split(' ')
+for word in words:
+    classResult = classifier.classify( word_feats(word))
+    print(classResult)
+    if classResult == 'neg':
+        neg = neg + 1
+    if classResult == 'pos':
+        pos = pos + 1
 
-#         tot_pos += 1
-# print('Positive: ' + str(float(pos)/len(words)))
-# print('Negative: ' + str(float(neg)/len(words)))
+        tot_pos += 1
+print('Positive: ' + str(float(pos)/len(words)))
+print('Negative: ' + str(float(neg)/len(words)))
 
 

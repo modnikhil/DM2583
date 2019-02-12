@@ -96,8 +96,8 @@ for rating in range(1, 6):
     for ithword in review:
         # frequency = total number of times a word has been rated a score (1-5)
         # divide frequency by the number of times THAT rating has been given to any word
-        # amount of times this word has been rated 1.000 - 5.00 divided by the total amount it's been  rated in all 
+        # amount of times this word has been rated 1.000 - 5.00 divided by the total amount it's been  rated in all
 
-likelyhood for 1/ score frequencies 
+likelyhood for 1/ score frequencies
 
 

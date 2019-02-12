@@ -1,0 +1,702 @@
+***************REVIEW************************
+['thank', 'lord', 'this', 'dvd', 'movie', 'has', 'touched', 'life', 'through', 'years', 'fact', 'i', 'in', 'car', 'accident', 'i', 'playing', 'music', 'this', 'movie', 'an', '8', 'track', 'tape', 'it', 'blessing', 'i', 'hit', 'in', 'a', 'ditch', 'song', 'playing', 'a', 'miracle', 'it', 'was', 'thank']
+One star: 0.21052631578947367
+Two star: 0.2631578947368421
+Three star: 0.2894736842105263
+Four star: 0.05263157894736842
+Five star: 0.18421052631578946
+***************REVIEW************************
+['chance', 'meeting', 'train', 'changes', 'life', 'tennis', 'player', 'guy', 'haines', 'farley', 'granger', 'ways', 'never', 'could', 'imagined', 'odd', 'obsessed', 'tennis', 'fan', 'bruno', 'anthony', 'robert', 'walker', 'recognizes', 'haines', 'does', 'best', 'ingratiate', 'talking', 'incessantly', 'details', 'guys', 'life', 'details', 'people', 'wouldnt', 'bring', 'at', 'first', 'meeting', 'bruno', 'strange', 'man', 'indeed', 'bruno', 'hates', 'father', 'wants', 'dead', 'guy', 'wants', 'divorce', 'unfaithful', 'wife', 'miriam', 'marry', 'political', 'socialite', 'ann', 'morton', 'ruth', 'roman', 'bruno', 'devises', 'plan', 'guy', 'swap', 'exchange', 'murders', 'guy', 'murders', 'brunos', 'father', 'bruno', 'murders', 'guys', 'wife', 'doing', 'it', 'impossible', 'link', 'either', 'them', 'respective', 'murders', 'bruno', 'thinks', 'perfect', 'plan', 'convinces', 'thinks', 'guy', 'this', 'plan', 'work', 'guy', 'hand', 'half', 'listening', 'his', 'odd', 'companion', 'assumes', 'nothing', 'come', 'brunos', 'wild', 'imaginings', 'wrong', 'bruno', 'actually', 'kills', 'guys', 'wife', 'hunts', 'guy', 'return', 'favor', 'guy', 'shocked', 'fearful', 'if', 'doesnt', 'humor', 'bruno', 'he', 'implicated', 'his', 'wifes', 'murder', 'hitchcock', 'films', 'enough', 'plot', 'twists', 'keep', 'viewer', 'guessing', 'outcome', 'will', 'be', 'right', 'famous', 'carousel', 'scene', 'toward', 'films', 'climax', 'hitchcock', 'course', 'employs', 'excellent', 'camera', 'work', 'great', 'scenes', 'washington', 'c', 'scene', 'walker', 'front', 'jefferson', 'memorial', 'absolutely', 'chilling', 'forest', 'hills', 'tennis', 'club', 'long', 'island', 'we', 'are', 'treated', 'a', 'tennis', 'match', 'looked', 'like', '1950s', 'like', 'shadow', 'a', 'doubt', 'hitchcocks', 'earlier', 'classic', 'doubles', 'abound', 'two', 'men', 'one', 'good', 'one', 'evil', 'guy', 'going', 'southampton', 'long', 'island', 'play', 'doubles', 'two', 'drinks', 'train', 'doubles', 'two', 'women', 'glasses', 'miriam', 'barbara', 'morton', 'anns', 'younger', 'sister', 'based', 'on', 'novel', 'patricia', 'highsmith', 'the', 'talented', 'mister', 'ripley', 'adapted', 'ben', 'hecht', 'uncredited', 'alfred', 'alma', 'hitchcock', 'raymond', 'chandler', 'gets', 'credit', 'the', 'screenplay', 'however', 'most', 'what', 'he', 'originally', 'wrote', 'not', 'make', 'the', 'final', 'cut', 'this', 'movie', 'gets', 'going', 'the', 'suspense', 'tension', 'doesnt', 'let', 'this', 'film', 'provided', 'probably', 'the', 'best', 'roles', 'either', 'granger', 'walker', 'ever', 'do', 'excellent', 'work', 'walker', 'effectively', 'charming', 'creepy', 'at', 'the', 'same', 'time', 'like', 'joseph', 'cotton', 'shadow', 'a', 'doubt', 'granger', 'is', 'properly', 'shocked', 'paralyzed', 'what', 'he', 'perceives', 'to', 'be', 'an', 'impossible', 'series', 'of', 'events', 'placing', 'him', 'and', 'his', 'fiancee', 'incredible', 'peril', 'the', 'british', 'version', 'a', 'different', 'ending', 'the', 'american', 'version', 'prefer', 'the', 'ending', 'the', 'american', 'version', 'to', 'the', 'british', 'however', 'are', 'satisfying', 'and', 'dont', 'change', 'the', 'films', 'conclusion', 'a', 'wonderful', 'film', 'with', 'all', 'the', 'great', 'hitchcock', 'touches', 'will', 'be', 'wonderfully', 'entertained', 'strangers', 'on', 'a', 'train']
+One star: 0.11965811965811966
+Two star: 0.1623931623931624
+Three star: 0.4928774928774929
+Four star: 0.11396011396011396
+Five star: 0.1111111111111111
+***************REVIEW************************
+['although', 'bought', 'box', 'set', 'week', 'two', 'decided', 'i', 'a', 'beatles', 'fan', 'i', 'am', 'glad', 'first', 'depth', 'look', 'beatles', 'took', 'less', 'a', 'week', 'watch', 'i', 'glued', 'the', 'television', 'watching', 'eleven', 'hours', 'footage', 'were', 'concerts', 'interviews', 'the', 'three', 'remaining', 'beatles', 'the', 'time', 'music', 'videos', 'clips', 'their', 'wonderful', 'movies', 'oh', 'much', 'anyone', 'is', 'a', 'beatles', 'fan', 'all', 'would', 'love', 'set', 'you', 'considering', 'buying', 'stop', 'considering', 'buy', 'it', 'right', 'away', 'the', 'book', 'accompanying', 'cds', 'also', 'done', 'the', 'utmost', 'quality', 'detail', 'i', 'loved', 'these', 'months', 'i', 'been', 'begun', 'my', 'beatlemania']
+One star: 0.23529411764705882
+Two star: 0.1411764705882353
+Three star: 0.32941176470588235
+Four star: 0.15294117647058825
+Five star: 0.1411764705882353
+***************REVIEW************************
+['film', 'tons', 'highlights', 'waxing', 'scene', 'my', 'personal', 'favorite', 'me', 'laughing', 'the', 'entire', 'part', 'read', 'steve', 'carells', 'hair', 'really', 'ripped', 'for', 'scene', 'thats', 'gotta', 'hurt']
+One star: 0.20833333333333334
+Two star: 0.20833333333333334
+Three star: 0.375
+Four star: 0.08333333333333333
+Five star: 0.125
+***************REVIEW************************
+['shaun', 'supposed', 'comedic', 'spoof', 'homage', 'zombie', 'movie', 'accomplished', 'while', 'comedy', 'wryly', 'british', 'still', 'funny', 'social', 'comment', 'universal', 'civilized', 'society', 'cased', 'missed', 'were', 'zombies', 'already', 'fun', 'movie', 'start', 'finish', 'be', 'warned', 'gratuitous', 'gore', 'scenes', 'necessary', 'it', 'be', 'zombie', 'film', 'they', 'are', 'few', 'fast', 'over', 'is', 'a', 'lot', 'quick', 'wit', 'humor', 'newscasters', 'comments', 'end', 'never', 'thought', 'id', 'say', 'an', 'example', 'strip', 'away', 'the', 'humor', 'homage', 'is', 'actually', 'a', 'much', 'tighter', 'plot', 'many', 'movies', 'there', 'are', 'many', 'loose', 'threads', 'did', 'the', 'zombie', 'get', 'go', 'back', 'three', 'scenes', 'oh', 'ed', 'habitually', 'leaves', 'the', 'front', 'door', 'open', 'impressed', 'the', 'attention', 'those', 'kind', 'details', 'billed', 'a', 'romantic', 'comedy', 'zombies', 'and', 'it', 'delivers']
+One star: 0.1792452830188679
+Two star: 0.20754716981132076
+Three star: 0.41509433962264153
+Four star: 0.11320754716981132
+Five star: 0.08490566037735849
+***************REVIEW************************
+['bought', 'set', 'my', 'husbands', 'birthday', 'wed', 'never', 'really', 'able', 'get', 'show', 'it', 'ran', 'complete', 'series', 'great', 'idea', 'content', 'sg', '1', 'great', 'characters', 'plots', 'even', 'occasional', 'effect', 'product', 'first', 'order', 'lots', 'scratched', 'disks', 'several', 'unplayable', 'plenty', 'skipping', 'popping', 'second', 'order', 'just', 'like', 'first', 'order', '3', 'disks', 'either', 'totally', 'partially', 'unplayable', 'first', '5', 'seasons', 'didnt', 'bother', 'checking', 'rest', 'returned', 'production', 'quality', 'really', 'unacceptable', 'imo', 'dont', 'care', 'much', 'price', 'having', 'unplayable', 'disks', 'repeatedly', 'points', 'a', 'problem', 'somewhere', 'the', 'mfg', 'delivery', 'chain', 'amazons', 'response', 'support', 'first', 'time', 'issued', 'replacements', 'even', 'though', 'outside', 'the', '30', 'day', 'window', 'second', 'time', 'issued', 'rma', 'full', 'refund', 'was', 'absolutely', 'the', 'right', 'service', 'response', 'my', 'happiness', 'amazon', 'went', 'several', 'notches', 'may', 'never', 'buy', 'another', 'complete', 'series', 'boxed', 'set', 'without', 'waiting', 'researching', 'ill', 'back', 'amazon', 'only', 'the', 'great', 'service', 'how', 'we', 'get', 'fix', 'the', 'last', '5', 'seasons', 'netflix']
+One star: 0.13138686131386862
+Two star: 0.21897810218978103
+Three star: 0.4306569343065693
+Four star: 0.08759124087591241
+Five star: 0.13138686131386862
+***************REVIEW************************
+['old', 'film', 'ive', 'recently', 'seen', 'its', 'womans', 'struggle', 'workplace', 'eighties', 'theme', 'youre', 'old', 'enough', 'remember', 'i', 'found', 'aspect', 'well', 'done', 'setting', 'iron', 'fields', 'upper', 'midwest', 'many', 'players', 'seem', 'be', 'amateurs', 'source', 'its', 'charm', 'many', 'ways', 'the', 'small', 'town', 'setting', 'culture', 'depicted', 'create', 'effective', 'ambiance', 'its', 'also', 'love', 'story', 'i', 'not', 'find', 'it', 'a', 'very', 'compelling', 'one', 'terms', 'the', 'chemistry', 'the', 'lovers', 'lisa', 'eichhorn', 'june', 'pretty', 'eyes', 'shes', 'stoic', 'be', 'interesting', 'tom', 'bowers', 'her', 'lover', 'too', 'old', 'her', 'just', 'big', 'a', 'jerk', 'her', 'antagonists', 'much', 'the', 'picture', 'steve', 'yokam', 'the', 'evil', 'ex', 'husband', 'gets', 'do', 'the', 'most', 'acting', 'appoints', 'well', 'the', 'music', 'is', 'pleasingly', 'haunting', 'places', 'the', 'best', 'thing', 'this', 'movie', 'is', 'the', 'scenery', 'the', 'countryside', 'lake', 'superior', 'the', 'lovely', 'cinda', 'jackson', 'karen', 'junes', 'best', 'friend']
+One star: 0.136
+Two star: 0.12
+Three star: 0.504
+Four star: 0.112
+Five star: 0.128
+***************REVIEW************************
+['motion', 'picture', 'following', 'illustrious', 'filmmaking', 'footsteps', 'such', 'feature', 'length', 'propaganda', 'films', 'quotjohn', 'qquot', 'quotthe', 'life', 'david', 'galequot', 'quotrunaway', 'juryquot', 'doomed', 'well', 'deserved', 'obscurity', 'awful', 'script', 'first', 'scene', 'shot', 'went', 'movie', 'rather', 'high', 'expectations', 'though', 'love', 'john', 'grisham', 'am', 'fond', 'john', 'cusacks', 'work', 'unfortunately', 'even', 'solid', 'perfomance', 'could', 'save', 'movie', 'quotrunaway', 'juryquot', 'suffers', 'complete', 'lack', 'originality', 'even', 'producers', 'changed', 'legal', 'target', 'film', 'big', 'tobacco', 'gun', 'control', 'presumably', 'avoid', 'compared', 'quotthe', 'insiderquot', 'average', 'moviegoers', 'see', 'predictable', 'plot', 'quottwistsquot', 'mile', 'away', 'plot', 'most', 'characters', 'especially', 'gene', 'hackmans', 'become', 'farfetched', 'movie', 'might', 'well', 'take', 'place', 'starship', 'enterprise', 'still', 'even', 'fantastic', 'movie', 'manages', 'drag', 'during', 'its', 'considerable', 'middle', 'stages', 'started', 'wonder', 'would', 'ever', 'end', 'mercifully', 'it', 'did', 'came', 'a', 'quotclimaxquot', 'so', 'predictable', 'so', 'theres', 'other', 'way', 'say', 'this', 'hollywood', 'left', 'the', 'intense', 'feeling', 'i', 'would', 'been', 'better', 'intellectually', 'served', 'watching', 'pokemon', 'the', 'agenda', 'the', 'producers', 'so', 'painfully', 'clear', 'throughout', 'the', 'movie', 'the', 'characters', 'might', 'well', 'been', 'wearing', 'sandwich', 'boards', 'spouting', 'anti', 'gun', 'slogans', 'even', 'supporters', 'gun', 'control', 'be', 'turned', 'the', 'constant', 'self', 'serving', 'nature', 'this', 'picture', 'offended', 'by', 'the', 'lack', 'subtlety', 'which', 'the', 'writers', 'have', 'chosen', 'deliver', 'the', 'message', 'really', 'think', 'stupid', 'oh', 'john', 'cusack', 'homey', 'this', 'is', 'strike', 'two', 'quotidentityquot', 'maybe', 'can', 'get', 'back', 'steven', 'frears', 'jb', 'and', 'do', 'a', 'sequel', 'quothigh', 'fidelityquot', 'redemption', 'i', 'just', 'hope', 'got', 'paid', 'awful', 'lot', 'to', 'do', 'this', 'movie', 'and', 'didnt', 'sign', 'because', 'liked', 'the', 'script']
+One star: 0.12719298245614036
+Two star: 0.2719298245614035
+Three star: 0.42105263157894735
+Four star: 0.11842105263157894
+Five star: 0.06140350877192982
+***************REVIEW************************
+['just', 'review', 'message', 'a', 'bottle', 'slamming', 'ill', 'end', 'eating', 'words', 'watched', 'movie', 'started', 'reading', 'nicholas', 'sparks', 'movie', 'prompted', 'start', 'reading', 'work', 'started', 'a', 'walk', 'book', 'even', 'though', 'a', 'lot', 'different', 'book', 'i', 'appriciate', 'great', 'stories', 'are', 'good', 'stories', 'i', 'think', 'adaptation', 'this', 'one', 'rings', 'true', 'to', 'book', 'are', 'different', 'time', 'settings', 'the', 'book', 'the', 'novel', 'most', 'of', 'what', 'nicholas', 'wrote', 'stays', 'the', 'movie', 'youll', 'blown', 'away', 'shane', 'west', 'mandy', 'moore', 'youll', 'laugh', 'youll', 'cry', 'youll', 'find', 'being', 'moved', 'the', 'movie', 'makes', 'fall', 'love', 'its', 'characters', 'leaves', 'longing', 'for', 'more']
+One star: 0.19101123595505617
+Two star: 0.20224719101123595
+Three star: 0.449438202247191
+Four star: 0.10112359550561797
+Five star: 0.056179775280898875
+***************REVIEW************************
+['searchers', 'typical', 'john', 'wayne', 'western', 'sure', 'cowboy', 'movie', 'directed', 'john', 'ford', 'includes', 'simple', 'story', 'follow', 'murder', 'kidnapping', 'family', 'member', 'duke', 'his', 'buddy', 'go', 'searching', 'the', 'culprits', 'case', 'group', 'indians', 'led', 'chief', 'named', 'scar', 'to', 'blame', 'the', 'searchers', 'is', 'different', 'john', 'wayne', 'is', 'much', 'intense', 'role', 'others', 'despite', 'slow', 'parts', 'the', 'plot', 'the', 'duke', 'pulls', 'the', 'role', 'vigor', 'also', 'a', 'few', 'social', 'issues', 'included', 'well', 'normally', 'would', 'give', 'this', 'movie', 'five', 'stars', 'i', 'simply', 'enjoy', 'much', 'as', 'some', 'john', 'wayne', 'westerns', 'i', 'seen', 'i', 'think', 'is', 'worth', 'watching', 'not', 'sure', 'is', 'not', 'quite', 'a', 'five', 'star', 'classic', 'like', 'westerns', 'you', 'will', 'likely', 'enjoy', 'this', 'one', 'although', 'prepared', 'a', 'different', 'type', 'character', 'the', 'duke', 'typically', 'portrays']
+One star: 0.12280701754385964
+Two star: 0.19298245614035087
+Three star: 0.4824561403508772
+Four star: 0.12280701754385964
+Five star: 0.07894736842105263
+***************REVIEW************************
+['well', 'done', 'portrayal', 'pivotal', 'time', 'history', 'united', 'states', 'american', 'pastime', 'reveals', 'portion', 'what', 'life', 'like', 'japanese', 'americans', 'incarcerated', 'relocation', 'camps', 'tasteful', 'showing', 'hardships', 'challenges', 'faced', 'families', 'living', 'camps', 'true', 'baseball', 'other', 'sports', 'what', 'saved', 'sanity', 'also', 'accurate', 'the', 'fact', 'there', 'some', 'people', 'hawaii', 'sent', 'topaz', 'the', 'prejudice', 'faced', 'the', 'heavy', 'loss', 'life', 'suffered', 'the', 'go', 'broke', '442nd', 'was', 'one', 'the', 'extras', 'this', 'movie', 'having', 'done', 'a', 'three', 'year', 'project', 'developing', 'lesson', 'plans', 'topaz', 'for', 'the', 'japanese', 'american', 'national', 'museum', 'can', 'tell', 'the', 'director', 'producer', 'careful', 'remain', 'true', 'details', 'possible', 'included', 'the', 'many', 'extras', 'were', 'people', 'were', 'actually', 'incarcerated', 'said', 'the', 'set', 'was', 'so', 'well', 'done', 'that', 'if', 'didnt', 'know', 'better', 'would', 'thought', 'were', 'back', 'camp']
+One star: 0.1391304347826087
+Two star: 0.21739130434782608
+Three star: 0.34782608695652173
+Four star: 0.0782608695652174
+Five star: 0.21739130434782608
+***************REVIEW************************
+['wow', 'must', 'funds', 'add', 'to', 'collection', 'shannen', 'dohertys', 'best', 'work', 'season', 'one', 'season', '3', 'masterpeices', 'must', 'buy', 'long', 'live', 'the', 'queen', 'b']
+One star: 0.09090909090909091
+Two star: 0.13636363636363635
+Three star: 0.5909090909090909
+Four star: 0.13636363636363635
+Five star: 0.045454545454545456
+***************REVIEW************************
+['cast', 'away', 'story', 'chuck', 'tom', 'hanks', 'fedex', 'delivery', 'worker', 'finds', 'stranded', 'desert', 'island', 'plane', 'goes', 'end', 'movie', 'story', 'life', 'back', 'real', 'world', 'however', 'story', 'somewhat', 'undeveloped', 'underemphasized', 'crash', 'had', 'proposed', 'his', 'fiance', 'upon', 'his', 'return', 'finds', 'she', 'married', 'children', 'side', 'note', 'either', 'time', 'moved', 'faster', 'on', 'the', 'mainland', 'else', 'his', 'loving', 'fiance', 'married', 'pregnant', 'less', 'year', 'his', 'disappearance', 'felt', 'subplot', 'either', 'left', 'alone', 'else', 'dealt', 'in', 'a', 'more', 'elaborate', 'way', 'the', 'ending', 'left', 'the', 'movie', 'feeling', 'incomplete', 'phowever', 'the', 'heart', 'the', 'movie', 'involves', 'chucks', 'time', 'on', 'the', 'island', 'it', 'simply', 'hanks', 'his', 'best', 'chuck', 'alone', 'trying', 'survive', 'every', 'little', 'task', 'could', 'mean', 'the', 'difference', 'life', 'death', 'hanks', 'means', 'must', 'display', 'the', 'gamut', 'emotions', 'seemingly', 'trivial', 'matters', 'actors', 'help', 'the', 'illusion', 'know', 'no', 'actor', 'could', 'have', 'me', 'the', 'point', 'tears', 'a', 'volleyball', 'starts', 'float', 'away', 'him', 'no', 'offense', 'russel', 'crowe', 'how', 'won', 'best', 'actor', 'playing', 'a', 'stoic', 'monosyllabic', 'gladiator', 'performance', 'one', 'lifes', 'great', 'mysteries', 'fans', 'great', 'acting', 'performances', 'this', 'one', 'highly', 'recommended']
+One star: 0.08074534161490683
+Two star: 0.19254658385093168
+Three star: 0.4906832298136646
+Four star: 0.07453416149068323
+Five star: 0.16149068322981366
+***************REVIEW************************
+['occasionally', 'passage', 'time', 'makes', 'clear', 'work', 'art', 'appeared', 'first', 'once', 'seemed', 'odd', 'place', 'plain', 'wacked', 'becomes', 'prescient', 'work', 'art', 'honored', 'ahead', 'time', 'least', 'ahead', 'audiences', 'understanding', 'edward', 'scissorhands', 'film', 'maybe', 'recall', 'seeing', 'unique', 'fantasyfairy', 'tale', 'few', 'years', 'ago', 'didnt', 'get', 'see', 'whole', 'thing', 'dont', 'recall', 'i', 'distracted', 'just', 'didnt', 'time', 'simply', 'didnt', 'get', 'it', 'upon', 'close', 'attention', 'at', 'long', 'last', 'i', 'find', 'be', 'mesmerizing', 'beautiful', 'touching', 'film', 'defies', 'categorization', 'singular', 'vision', 'director', 'tim', 'burton', 'fourth', 'hit', 'row', 'following', 'pee', 'wees', 'big', 'adventure', 'beetle', 'juice', 'batman', 'retelling', 'frankenstein', 'legend', 'twist', 'manmade', 'man', 'left', 'scissors', 'instead', 'hands', 'inventor', 'invented', 'man', 'died', 'just', 'at', 'moment', 'replace', 'monstrous', 'hands', 'more', 'human', 'looking', 'ones', 'johnny', 'depp', 'plays', 'edward', 'course', 'pancake', 'makeup', 'electric', 'hairdo', 'sense', 'little', 'boy', 'lost', 'women', 'film', 'cant', 'resist', 'chief', 'whom', 'eventually', 'young', 'beautiful', 'winona', 'rider', 'natural', 'blonde', 'yes', 'her', 'usual', 'black', 'hair', 'dye', 'job', 'the', 'fantasy', 'element', 'the', 'film', 'allows', 'us', 'overlook', 'anachronistic', 'nature', 'edward', 'adopted', 'avon', 'lady', 'lives', 'neighborhood', 'straight', 'jackie', 'os', 'early', 'mid', '60s', 'suburbia', 'yet', 'one', 'inhabitants', 'talks', 'needing', 'a', 'new', 'cd', 'player', 'also', 'see', 'home', 'its', 'extremely', 'modern', 'security', 'system', 'little', 'details', 'like', 'did', 'edward', 'eat', 'all', 'years', 'helpless', 'living', 'alone', 'apart', 'the', 'world', 'why', 'heavens', 'name', 'given', 'scissors', 'hands', 'the', 'first', 'place', 'bothersome', 'things', 'the', 'whole', 'film', 'unreal', 'they', 'somehow', 'dont', 'intrude', 'enough', 'mar', 'either', 'the', 'atmosphere', 'the', 'story', 'its', 'a', 'fairy', 'tale', 'all', 'questions', 'such', 'nature', 'not', 'welcome', 'required', 'burton', 'belongs', 'pantheon', 'directors', 'whose', 'work', 'bears', 'a', 'unique', 'stamp', 'visually', 'aesthetically', 'otherwise', 'so', 'its', 'clear', 'youre', 'watching', 'a', 'burton', 'film', 'puts', 'an', 'elite', 'group', 'directors', 'such', 'as', 'hitchcock', 'spielberg', 'kubrick', 'scorsese', 'bergman', 'tarantino', 'fellini', 'spike', 'lee', 'sidney', 'lumet', 'david', 'lynch', 'woody', 'allen', 'robert', 'altman', 'etc', 'not', 'bad', 'company', 'be', 'scissorhands', 'reeks', 'burtons', 'rich', 'textures', 'visuals', 'sounds', 'slightly', 'yet', 'perfectly', 'interwoven', 'matching', 'the', 'story', 'the', 'angle', 'he', 'wants', 'take', 'it', 'it', 'also', 'carries', 'the', 'delicious', 'depth', 'story', 'one', 'plumb', 'viewing', 'the', 'title', 'character', 'a', 'representation', 'burton', 'the', 'self', 'image', 'a', 'freakish', 'character', 'step', 'his', 'surroundings', 'ultimately', 'rejected', 'create', 'his', 'beautiful', 'works', 'art', 'without', 'being', 'judged', 'normal', 'people', 'the', 'film', 'burtons', 'way', 'saying', 'he', 'thinks', 'god', 'is', 'dead', 'that', 'he', 'left', 'us', 'incomplete', 'the', 'ability', 'to', 'create', 'wondrous', 'things', 'but', 'also', 'the', 'clumsiness', 'that', 'leads', 'to', 'horrible', 'accidents', 'that', 'are', 'sometimes', 'blamed', 'except', 'those', 'we', 'love', 'perhaps', 'event', 'is', 'well', 'worth', 'repeated', 'viewing', 'a', 'couple', 'of', 'nits', 'to', 'clear', 'here', 'reviewers', 'make', 'the', 'mistake', 'of', 'saying', 'was', 'burtons', 'first', 'film', 'way', 'wrong', 'that', 'this', 'was', 'depps', 'first', 'film', 'way', 'wrong', 'burtons', 'earlier', 'successes', 'are', 'detailed', 'deep', 'been', 'featured', 'nightmare', 'elm', 'street', 'platoon', 'he', 'became', 'a', 'star', 'tvs', '21', 'jump', 'street', 'he', 'was', 'the', 'lead', 'actor', 'in', 'the', 'film', 'cry', 'baby', 'this', 'film', 'came', 'just', 'a', 'note', 'added', 'in', 'the', 'cause', 'of', 'correct', 'information']
+One star: 0.11648351648351649
+Two star: 0.1934065934065934
+Three star: 0.4835164835164835
+Four star: 0.12087912087912088
+Five star: 0.08571428571428572
+***************REVIEW************************
+['lets', 'see', 'guy', 'bubble', 'space', 'tree', 'eats', 'part', 'tree', 'breaks', 'bubble', 'wait', 'happened', 'end', 'guy', 'dying', 'wife', 'infinitely', 'stoic', 'dying', 'writes', 'book', 'called', 'fountain', 'guy', 'starts', 'reading', 'wants', 'finish', 'book', 'written', 'last', 'chapter', 'supposed', 'really', 'meaningful', 'shes', 'dying', 'know', 'conquistador', 'sent', 'queen', 'spain', 'find', 'hidden', 'mayan', 'pyramid', 'has', 'tree', 'immortality', 'it', 'using', 'three', 'holes', 'broken', 'knife', 'map', 'she', 'wants', 'save', 'her', 'from', 'the', 'spanish', 'inquisition', 'nobody', 'expects', 'fights', 'way', 'warriors', 'kind', 'religious', 'looking', 'person', 'eats', 'some', 'tree', 'instead', 'it', 'saving', 'it', 'kills', 'turns', 'into', 'bunch', 'flowers', 'within', 'minute', 'else', 'the', 'guy', 'is', 'some', 'type', 'medical', 'researcher', 'violates', 'the', 'rules', 'drug', 'studies', 'and', 'flash', 'insight', 'caused', 'looking', 'patterns', 'falling', 'snow', 'think', 'miraculously', 'comes', 'with', 'a', 'serum', 'reverses', 'aging', 'wanted', 'use', 'it', 'on', 'dying', 'wife', 'but', 'she', 'already', 'died', 'heavy', 'sigh', 'did', 'save', 'a', 'dying', 'monkey', 'though', 'so', 'thats', 'good', 'back', 'space', 'breaks', 'the', 'bubble', 'goes', 'back', 'think', 'thats', 'it', 'never', 'finishes', 'the', 'book', 'kind', 'forgot', 'it', 'i', 'guess', 'those', 'compare', '2001', 'a', 'space', 'odyssey', 'yes', 'there', 'is', 'a', 'bubble', 'space', 'both', 'movies', 'otherwise', 'bear', 'resemblance', 'each', 'whatsoever', 'compare', 'to', 'anything', 'kubrick', 'made', 'is', 'an', 'insult', 'to', 'kubrick', 'the', 'kind', 'of', 'person', 'thinks', 'it', 'is', 'philosophically', 'deep', 'to', 'see', 'a', 'bald', 'guy', 'the', 'lotus', 'position', 'tumbling', 'space', 'floating', 'four', 'feet', 'the', 'ground', 'in', 'front', 'a', 'vaguely', 'mayan', 'religious', 'person', 'you', 'might', 'a', 'chance', 'of', 'enjoying', 'this', 'movie', 'otherwise', 'be', 'prepared', 'to', 'feel', 'like', 'you', 'wasted', '92', 'minutes', 'of', 'your', 'life', 'just', 'awful']
+One star: 0.11666666666666667
+Two star: 0.20416666666666666
+Three star: 0.48333333333333334
+Four star: 0.10416666666666667
+Five star: 0.09166666666666666
+***************REVIEW************************
+['original', 'cast', 'richard', 'obrien', 'barry', 'bostwick', 'susan', 'sarandon', 'tim', 'curry', 'soundtrack', 'theatrical', 'version', 'made', 'famous', 'midnight', 'movie', 'show', 'houses', 'across', 'america', '70s', '80s', 'is', 'extremely', 'rare', 'example', 'a', 'movie', 'better', 'stage', 'richard', 'obrien', 'jim', 'sharman', 'a', 'great', 'job', 'making', 'the', 'converting', 'the', 'play', 'film']
+One star: 0.11363636363636363
+Two star: 0.09090909090909091
+Three star: 0.4772727272727273
+Four star: 0.18181818181818182
+Five star: 0.13636363636363635
+***************REVIEW************************
+['beautifull', 'combination', 'camerawork', 'story', 'telling', 'fantastic', 'acting']
+One star: 0.0
+Two star: 0.14285714285714285
+Three star: 0.5714285714285714
+Four star: 0.14285714285714285
+Five star: 0.14285714285714285
+***************REVIEW************************
+['great', 'quality', 'an', 'older', 'movie', 'couldnt', 'find', 'anywhere', 'else', 'son', 'been', 'asking', 'see', 'movie', 'he', 'saw', 'rocky', 'movies', 'am', 'glad', 'found', 'here']
+One star: 0.22727272727272727
+Two star: 0.13636363636363635
+Three star: 0.45454545454545453
+Four star: 0.13636363636363635
+Five star: 0.045454545454545456
+***************REVIEW************************
+['quotmickey', 'blue', 'eyesquot', 'lies', 'little', 'quotanalyse', 'thisquot', 'alongside', 'quotthe', 'whole', 'nine', 'yardsquot', 'well', 'quotmafiaquot', 'is', 'constantly', 'enjoyable', 'comedy', 'even', 'though', 'great', 'laughs', 'given', 'away', 'the', 'trailer', 'phughs', 'performance', 'may', 'been', 'shadowed', 'quotnotting', 'hillquot', 'one', 'here', 'is', 'allowed', 'cut', 'loose', 'funnier', 'sillier', 'play', 'his', 'stereotype', 'does', 'james', 'caan', 'playing', 'comical', 'version', 'himself', 'jeanne', 'tripplehorn', 'gets', 'play', 'rare', 'nice', 'role', 'seems', 'have', 'fun', 'fact', 'everyone', 'the', 'film', 'seems', 'be', 'fun', 'that', 'adds', 'the', 'audiences', 'fun', 'pthe', 'dvd', 'isnt', 'exactly', 'packed', 'features', 'it', 'looses', '1', 'star', 'that', 'fans', 'of', 'the', 'film', 'not', 'be', 'disappointed']
+One star: 0.15384615384615385
+Two star: 0.17582417582417584
+Three star: 0.5384615384615384
+Four star: 0.07692307692307693
+Five star: 0.054945054945054944
+***************REVIEW************************
+['terrific', 'movie', 'found', 'totally', 'captivating', 'did', 'twelve', 'year', 'old', 'son', 'title', 'double', 'meaning', 'refers', 'month', 'march', 'mating', 'cycle', 'emperor', 'penguins', 'begins', 'also', 'long', 'march', 'particular', 'colony', 'make', 'mating', 'ground', 'do', 'travel', 'distance', 'colony', 'well', 'first', 'have', 'understand', 'movie', 'one', 'colony', 'are', 'dozens', 'around', 'coat', 'antarctica', 'did', 'reading', 'movie', 'cycle', 'mating', 'nurturing', 'egg', 'raising', 'chick', 'takes', 'months', 'months', 'begins', 'fall', 'spring', 'winter', 'spring', 'into', 'summer', 'spring', 'summer', 'ice', 'melts', 'towards', 'their', 'breeding', 'ground', 'have', 'place', 'remains', 'safe', 'their', 'chicks', 'summer', 'sea', 'only', 'few', 'hundred', 'yards', 'their', 'breeding', 'ground', 'is', 'convenient', 'feeding', 'always', 'hungry', 'rapidly', 'growing', 'chick', 'story', 'way', 'the', 'couples', 'choose', 'other', 'create', 'care', 'the', 'fertilized', 'egg', 'requires', 'the', 'male', 'female', 'penguin', 'demands', 'them', 'almost', 'the', 'point', 'death', 'is', 'amazing', 'strangely', 'inspiring', 'guess', 'raising', 'young', 'more', 'twenty', 'years', 'requires', 'similar', 'kind', 'dedication', 'not', 'concentrated', 'the', 'penguin', 'couples', 'absolute', 'focus', 'one', 'brief', 'season', 'the', 'dcd', 'also', 'full', 'length', 'program', 'the', 'making', 'the', 'movie', 'is', 'fascinating', 'the', 'movie', 'its', 'way', 'the', 'french', 'filmmakers', 'provide', 'their', 'own', 'narration', 'at', 'times', 'their', 'prose', 'gets', 'a', 'bit', 'much', 'how', 'much', 'are', 'sacrificing', 'so', 'one', 'i', 'take', 'hat', 'them', 'for', 'giving', 'a', 'year', 'such', 'awful', 'conditions', 'get', 'the', 'footage', 'did', 'choose', 'do', 'but', 'documentary', 'the', 'making', 'the', 'film', 'provides', 'extra', 'footage', 'the', 'penguins', 'couldnt', 'be', 'the', 'g', 'rated', 'version', 'the', 'film', 'get', 'see', 'they', 'go', 'get', 'the', 'amazing', 'shots', 'see', 'in', 'the', 'film', 'is', 'also', 'a', 'short', 'program', 'national', 'geographic', 'the', 'emperor', 'penguins', 'is', 'pretty', 'good', 'is', 'terribly', 'marred', 'its', 'childish', 'quick', 'cutting', 'to', 'add', 'fake', 'excitement', 'those', 'attention', 'deficit', 'disorder', 'its', 'constant', 'harping', 'how', 'global', 'warming', 'might', 'impact', 'the', 'penguins', 'that', 'we', 'should', 'be', 'in', 'arms', 'if', 'the', 'penguins', 'havent', 'adapted', 'to', 'changes', 'in', 'climate', 'the', 'past', 'millions', 'of', 'years', 'give', 'a', 'break', 'finally', 'is', 'the', 'delightful', 'cartoon', 'about', 'bugs', 'bunny', 'trying', 'to', 'take', 'ice', 'show', 'penguin', 'gets', 'separated', 'his', 'troupe', 'back', 'to', 'the', 'south', 'pole', 'this', 'is', 'a', 'must', 'have', 'dvd', 'i', 'recommend', 'that', 'everyone', 'watch', 'discuss', 'it', 'with', 'their', 'family', 'and', 'friends', 'just', 'great']
+One star: 0.15151515151515152
+Two star: 0.17575757575757575
+Three star: 0.45454545454545453
+Four star: 0.1
+Five star: 0.11818181818181818
+***************REVIEW************************
+['note', 'hebrew', 'english', 'subtitles', 'synopsis', '95', 'israeli', 'film', 'devarim', 'meaning', 'memory', 'things', 'first', 'three', 'writerdirectoractor', 'amos', 'gita', 'followed', 'yom', 'yom', '98', 'kadosh', '99', 'comprise', 'city', 'trilogy', 'story', 'unfolds', 'contemporary', 'tel', 'aviv', 'focusing', 'three', 'disillusioned', 'thirty', 'something', 'friends', 'cesar', 'played', 'assi', 'dayan', 'son', 'legendary', 'moshe', 'dayan', 'moderately', 'successful', 'photographer', 'woman', 'chaser', 'israel', 'amos', 'schub', 'underachieving', 'pianist', 'goldman', 'amos', 'gita', 'everyday', 'mamas', 'boy', 'goldmans', 'father', 'dies', 'three', 'men', 'wake', 'reality', 'life', 'temporary', 'death', 'eventually', 'awaits', 'us', 'soon', 'life', 'paths', 'laid', 'bare', 'onslaught', 'newly', 'obtained', 'self', 'awareness', 'how', 'have', 'spending', 'time', 'energy', 'come', 'question', 'discover', 'path', 'fulfillment', 'meaning', 'are', 'they', 'doomed', 'continue', 'going', 'motions', 'critique', 'back', 'cover', 'dvd', 'case', 'film', 'described', 'moody', 'portrait', 'israels', 'lost', 'generation', 'indeed', 'pervading', 'feeling', 'oppression', 'futility', 'immediately', 'discernible', 'first', 'moment', 'continues', 'unmercifully', 'the', 'end', 'the', 'story', 'unfolds', 'slowly', 'beginning', 'one', 'hot', 'sweltering', 'summers', 'day', 'tel', 'aviv', 'three', 'men', 'appear', 'live', 'state', 'constant', 'uncertainty', 'agitation', 'depression', 'every', 'word', 'spoken', 'every', 'action', 'performed', 'seems', 'automatic', 'unconscious', 'response', 'is', 'unconnected', 'personal', 'thought', 'human', 'emotion', 'theyre', 'going', 'the', 'motions', 'living', 'never', 'partaking', 'working', 'without', 'experiencing', 'call', 'vocation', 'conversing', 'without', 'relating', 'having', 'sex', 'without', 'loving', 'is', 'life', 'smoke', 'mirrors', 'goldman', 'suggests', 'one', 'pertinent', 'conversation', 'the', 'unconscious', 'embracing', 'the', 'little', 'death', 'preparation', 'the', 'big', 'death', 'follow', 'i', 'personally', 'found', 'intriguing', 'the', 'first', 'hand', 'insight', 'the', 'film', 'provided', 'the', 'mindset', 'the', 'non', 'religious', 'jew', 'living', 'land', 'trapped', 'a', 'constant', 'state', 'emergency', 'must', 'like', 'live', 'a', 'land', 'surrounded', 'militant', 'enemies', 'want', 'destroy', 'a', 'place', 'military', 'service', 'is', 'mandatory', 'death', 'the', 'hands', 'a', 'suicide', 'bomber', 'happen', 'anytime', 'the', 'religious', 'residents', 'israel', 'may', 'able', 'deal', 'the', 'situation', 'a', 'worldview', 'envisions', 'all', 'a', 'part', 'gods', 'ultimate', 'plan', 'about', 'without', 'religious', 'faith', 'cling', 'surely', 'must', 'be', 'akin', 'living', 'a', 'pressure', 'cooker', 'concept', 'impending', 'doom', 'futility', 'exudes', 'this', 'film', 'a', 'fascinating', 'subtext', 'the', 'storyline', 'a', 'rather', 'long', 'philosophical', 'discussion', 'goldman', 'mother', 'the', 'second', 'half', 'the', 'film', 'the', 'conversation', 'dealt', 'belief', 'god', 'atheism', 'suffering', 'death', 'finally', 'personal', 'freedom', 'the', 'right', 'choose', 'one', 'life', 'goldman', 'comes', 'the', 'conclusion', 'committing', 'suicide', 'is', 'the', 'ultimate', 'act', 'one', 'perform', 'demonstrate', 'that', 'the', 'individual', 'do', 'with', 'their', 'life', 'they', 'i', 'found', 'this', 'to', 'be', 'a', 'revealing', 'conclusion', 'to', 'come', 'to', 'by', 'a', 'non', 'religious', 'israeli', 'has', 'spent', 'his', 'entire', 'life', 'the', 'shadow', 'arabs', 'making', 'that', 'choice', 'me', 'that', 'conversation', 'provided', 'amazing', 'glimpse', 'the', 'psyche', 'the', 'contemporary', 'israeli', 'that', 'made', 'the', 'film', 'worth', 'the', 'time', 'effort']
+One star: 0.09020618556701031
+Two star: 0.17268041237113402
+Three star: 0.5438144329896907
+Four star: 0.061855670103092786
+Five star: 0.13144329896907217
+***************REVIEW************************
+['movie', 'never', 'gets', 'old', 'there', 'things', 'require', 'suspend', 'disbelief', 'bit', 'is', 'still', 'very', 'good', 'movie', 'bette', 'davis', 'joan', 'crawford', 'perfectly', 'cast', 'rented', 'after', 'was', 'sick', 'bed', 'husband', 'brought', 'my', 'lunch', 'me', 'bed', 'i', 'made', 'reference', 'to', 'the', 'movie', 'not', 'get', 'since', 'he', 'hadnt', 'seen', 'before', 'still', 'love', 'movie']
+One star: 0.16666666666666666
+Two star: 0.16666666666666666
+Three star: 0.4583333333333333
+Four star: 0.125
+Five star: 0.08333333333333333
+***************REVIEW************************
+['little', 'along', 'lines', 'previous', 'police', 'stories', 'so', 'much', 'jethro', 'know', 'could', 'sort', 'anyone', 'anything', 'all', 'abby', 'incredible', 'wish', 'was', '25', 'years', 'younger', 'interplay', 'characters', 'makes', 'the', 'excelent', 'script', 'really', 'come', 'alive', 'am', 'adict', 'please', 'i', 'cant', 'wait', 'series', '2', '3', 'etc', 'iv', 'waited', 'long', 'series', '1']
+One star: 0.21739130434782608
+Two star: 0.17391304347826086
+Three star: 0.41304347826086957
+Four star: 0.15217391304347827
+Five star: 0.043478260869565216
+***************REVIEW************************
+['could', 'quite', 'possibly', 'one', 'the', 'worst', 'movies', 'have', 'ever', 'seen', 'quite', 'shame', 'wesley', 'snipes', 'one', 'the', 'better', 'action', 'guys', 'there']
+One star: 0.2
+Two star: 0.25
+Three star: 0.55
+Four star: 0.0
+Five star: 0.0
+***************REVIEW************************
+['donnie', 'darko', 'natural', 'born', 'killers', 'pthis', 'a', 'really', 'odd', 'movie', 'things', 'seem', 'happen', 'guy', 'no', 'apparent', 'reason', 'it', 'answer', 'questions', 'the', 'end', 'however', 'as', 'donnie', 'darko', 'hafta', 'smart', 'enough', 'realize', 'theyre', 'giving', 'answers', 'pif', 'dig', 'psychological', 'freak', 'movies', 'check', 'this', 'one']
+One star: 0.17073170731707318
+Two star: 0.17073170731707318
+Three star: 0.43902439024390244
+Four star: 0.07317073170731707
+Five star: 0.14634146341463414
+***************REVIEW************************
+['movie', 'emits', 'knowledge', 'wisdom', 'along', 'great', 'acting', 'everyday', 'issues', 'make', 'sympathize', 'characters', 'the', 'main', 'three', 'characters', 'interact', 'well', 'especially', 'there', 'no', 'dialogue', 'it', 'eady', 'relate', 'people', 'without', 'prejudice']
+One star: 0.03571428571428571
+Two star: 0.2857142857142857
+Three star: 0.5
+Four star: 0.03571428571428571
+Five star: 0.14285714285714285
+***************REVIEW************************
+['jennifer', 'her', 'strugle', 'succede', 'an', 'american', 'story']
+One star: 0.14285714285714285
+Two star: 0.0
+Three star: 0.42857142857142855
+Four star: 0.2857142857142857
+Five star: 0.14285714285714285
+***************REVIEW************************
+['ok', 'maybe', 'theme', 'scenario', 'not', 'fresh', 'still', 'entertains', 'out', 'becoming', 'stale', 'one', 'thing', 'boggles', 'mind', 'though', 'do', 'move', 'volcano', 'dont', 'get', 'wrong', 'overlook', 'almost', 'every', 'fantasy', 'animes', 'can', 'throw', 'me', 'doesnt', 'volcano', 'needs', 'be', 'attached', 'earth', 'be', 'fed', 'lava', 'anyway', 'guess', 'even', 'pass', 'one', 'the', 'movie', 'enjoyed', 'it', 'all', 'the', 'way']
+One star: 0.1568627450980392
+Two star: 0.13725490196078433
+Three star: 0.5686274509803921
+Four star: 0.0784313725490196
+Five star: 0.058823529411764705
+***************REVIEW************************
+['matter', 'life', 'death', 'eight', 'strangers', 'narrowly', 'escape', 'carastrophic', 'freeway', 'accident', 'young', 'girls', 'premonition', 'saced', 'all', 'a', 'grisly', 'end', 'now', 'they', 'put', 'a', 'rift', 'deaths', 'design', 'theres', 'going', 'be', 'a', 'price', 'pay', 'its', 'going', 'be', 'painful', 'prated', 'r', 'strong', 'violencegruesome', 'accidents', 'language', 'drug', 'content', 'some', 'nudity']
+One star: 0.1111111111111111
+Two star: 0.08888888888888889
+Three star: 0.6888888888888889
+Four star: 0.0
+Five star: 0.1111111111111111
+***************REVIEW************************
+['feel', 'good', 'movie', 'only', 'thing', 'say', 'is', 'met', 'sooner', 'just', 'feel', 'little', 'robbed', 'they', 'could', 'have', 'put', 'couple', 'together', 'lot', 'sooner', 'just', 'end', 'the', 'movie', 'sometimes', 'feel', 'like', 'is', 'the', 'mistake', 'lot', 'the', 'movies', 'make', 'then', 'it', 'would', 'have', 'gotten', 'five', 'stars']
+One star: 0.19047619047619047
+Two star: 0.3333333333333333
+Three star: 0.40476190476190477
+Four star: 0.047619047619047616
+Five star: 0.023809523809523808
+***************REVIEW************************
+['movies', 'attention', 'detail', 'its', 'realistic', 'vastness', 'reflection', 'the', 'brilliance', 'is', 'michael', 'mann', 'a', 'must', 'anyone', 'interested', 'great', 'filmmaking']
+One star: 0.2222222222222222
+Two star: 0.05555555555555555
+Three star: 0.5555555555555556
+Four star: 0.1111111111111111
+Five star: 0.05555555555555555
+***************REVIEW************************
+['psychological', 'thriller', 'a', 'twisted', 'stalker', 'very', 'well', 'acted', 'everyone', 'extremely', 'well', 'acted', 'robin', 'williams', 'disappointed', 'as', 'pushed', 'familiar', 'buttons', 'used', 'typical', 'symbolism', 'give', 'away', 'peoples', 'motivations', 'ended', 'an', 'improbable', 'deliciously', 'creepy', 'way', 'wish', 'id', 'waited', 'the', 'dvd']
+One star: 0.08108108108108109
+Two star: 0.10810810810810811
+Three star: 0.5135135135135135
+Four star: 0.24324324324324326
+Five star: 0.05405405405405406
+***************REVIEW************************
+['disgusting', 'disrespectful', 'using', 'bushs', 'head', 'tasteless', 'woudl', 'good', 'entertainment', 'stay', 'away', 'politic', 'completely']
+One star: 0.15384615384615385
+Two star: 0.07692307692307693
+Three star: 0.5384615384615384
+Four star: 0.23076923076923078
+Five star: 0.0
+***************REVIEW************************
+['wanted', 'love', 'movie', 'missing', 'something', 'did', 'help', 'the', 'lead', 'actortristan', 'thorn', 'just', 'didnt', 'cut', 'the', 'rest', 'the', 'cast', 'amazing', 'really', 'pulled', 'me', 'in', 'everytime', 'character', 'solo', 'screen', 'would', 'start', 'lose', 'attention', 'in', 'much', 'enjoyed', 'movie', 'i', 'borrowed', 'it', 'from', 'friend', 'it', 'not', 'one', 'i', 'purchase', 'watch', 'good', 'plot', 'creative', 'flamboyant', 'sets', 'and', 'claire', 'danes', 'spectacular']
+One star: 0.07272727272727272
+Two star: 0.18181818181818182
+Three star: 0.4909090909090909
+Four star: 0.12727272727272726
+Five star: 0.12727272727272726
+***************REVIEW************************
+['kirk', 'douglas', 'outstanding', 'dual', 'role', 'estranged', 'brothers', 'real', 'star', 'movies', 'hero', 'jim', 'craig', 'winds', 'orphaned', 'banished', 'land', 'his', 'father', 'killed', 'an', 'accident', 'involving', 'herd', 'wild', 'horses', 'jim', 'goes', 'work', 'wealthy', 'rancher', 'one', 'kirks', 'roles', 'comes', 'love', 'his', 'daughter', 'the', 'rancher', 'doesnt', 'think', 'jim', 'good', 'enough', 'his', 'daughter', 'conniving', 'ranch', 'hands', 'release', 'valuable', 'horse', 'hoping', 'be', 'blamed', 'jim', 'finds', 'chance', 'prove', 'everyone', 'the', 'story', 'dramatic', 'satisfying', 'the', 'scenery', 'top', 'notch', 'the', 'music', 'unforgettable', 'is', 'a', 'movie', 'you', 'feel', 'you', 'become', 'part', 'the', 'story', 'you', 'get', 'to', 'know', 'the', 'characters', 'well', 'become', 'involved', 'jims', 'trials', 'growth', 'somehow', 'had', 'overlooked', 'movie', 'most', '30', 'years', 'im', 'delighted', 'finally', 'found', 'it']
+One star: 0.09433962264150944
+Two star: 0.16037735849056603
+Three star: 0.4716981132075472
+Four star: 0.1320754716981132
+Five star: 0.14150943396226415
+***************REVIEW************************
+['wowww', 'really', 'film', 'had', 'heard', 'lot', 'film', 'really', 'wanted', 'see', 'finally', 'bought', 'dvd', 'amazon', 'film', 'worth', 'every', 'penny', 'id', 'spend', 'allrite', 'film', 'abt', 'crazy', 'scientist', 'overwhelmed', 'idea', 'bringing', 'deads', 'back', 'life', 'another', 'crazier', 'egoistic', 'celebrety', 'scientist', 'forms', 'perfect', 'nemisis', 'our', 'anti', 'heroits', 'also', 'dead', 'pan', 'room', 'mate', 'makes', 'college', 'deans', 'daughter', 'his', 'free', 'time', 'getting', 'blackmailed', 'herbert', 'west', 'getting', 'beaten', 'zombies', 'then', 'u', 'barbera', 'crempton', 'deans', 'daughter', 'her', 'affinity', 'wearing', 'clothes', 'besides', 'is', 'green', 'serum', 'lottsa', 'gore', 'keep', 'u', 'entertained', 'charecters', 'selves', 'enough', 'is', 'kida', 'film', 'u', 'either', 'love', 'hate', 'cause', 'one', 'film', 'wich', 'doesnt', 'takes', 'self', 'seriously', 'film', 'is', 'made', 'entertain', 'thats', 'exactly', 'u', 'looking', 'thought', 'provoking', 'film', 'stay', 'away', 'one', 'is', 'first', 'campy', 'film', 'such', 'a', 'a', 'class', 'acting', 'jeffery', 'combs', 'herbert', 'west', 'steals', 'show', 'he', 'is', 'right', 'role', 'nobody', 'else', 'wud', 'done', 'better', 'the', 'rest', 'the', 'cast', 'supports', 'real', 'well', 'this', 'is', 'a', 'film', 'made', '1985', 'a', 'low', 'budget', 'so', 'dont', 'expect', 'mind', 'boggeling', 'special', 'fx', 'the', 'makeup', 'fx', 'clumsy', 'stupid', 'this', 'time', 'this', 'film', 'made', 'were', 'way', 'ahead', 'its', 'time', 'some', 'scean', 'this', 'film', 'real', 'fun', 'esp', 'the', 'decapitation', 'scene', 'the', 'infamous', 'head', 'scene', 'besides', 'the', 'dvds', 'extra', 'feature', 'very', 'good', 'it', 'comes', 'interviews', 'brian', 'yuzuna', 'stuart', 'gordan', 'reveal', 'they', 'even', 'considered', 'casting', 'arnold', 'schwerzeneger', 'one', 'not', 'so', 'important', 'rolethen', 'u', 'audio', 'commentery', 'by', 'jeffery', 'combbruce', 'abbot', 'barbera', 'crempton', 'added', 'with', 'the', 'films', 'publicity', 'stills', 'explains', 'much', 'fun', 'they', 'had', 'making', 'the', 'film', 'believe', 'fellas', 'this', 'is', 'the', 'best', 'comedy', 'u', 'come', 'across', 'cause', 'it', 'never', 'feels', 'like', 'a', 'comedy', 'and', 'still', 'u', 'keep', 'laughing', 'when', 'u', 'watch', 'it']
+One star: 0.11787072243346007
+Two star: 0.19391634980988592
+Three star: 0.4790874524714829
+Four star: 0.09125475285171103
+Five star: 0.11787072243346007
+***************REVIEW************************
+['miami', 'vice', 'film', 'surrounded', 'rumors', 'preconceptions', 'lot', 'money', 'pretty', 'much', 'bore', 'story', 'important', 'you', 'michael', 'mann', 'talented', 'director', 'knows', 'move', 'action', 'sequences', 'capture', 'vistas', 'light', 'versus', 'darkness', 'he', 'be', 'reliable', 'creating', 'character', 'interplay', 'be', 'miami', 'vice', 'doesnt', 'seem', 'be', 'a', 'script', 'follow', 'more', 'exciting', 'actors', 'field', 'today', 'employed', 'deliver', 'movie', 'drug', 'deals', 'undercover', 'agents', 'lots', 'violence', 'they', 'wooden', 'seem', 'be', 'reading', 'few', 'lines', 'a', 'tv', 'prompter', 'no', 'character', 'development', 'speak', 'no', 'camaraderie', 'rico', 'sonny', 'factor', 'made', 'old', 'tv', 'show', 'watchable', 'cast', 'sterling', 'colin', 'farrell', 'needs', 'a', 'good', 'meaty', 'role', 'allure', 'falters', 'fine', 'jamie', 'foxx', 'terribly', 'his', 'element', 'a', 'miscast', 'flat', 'gong', 'li', 'excellent', 'naomie', 'harris', 'far', 'the', 'strongest', 'character', 'the', 'film', 'elizabeth', 'rodriquez', 'justin', 'theroux', 'ciaraacuten', 'hinds', 'an', 'awful', 'southern', 'accent', 'a', 'set', 'of', 'new', 'bad', 'guys', 'well', 'chosen', 'in', 'isaach', 'de', 'bankoleacute', 'john', 'ortiz', 'luis', 'tosar', 'talent', 'like', 'youd', 'think', 'the', 'thing', 'could', 'fly', 'its', 'but', 'despite', 'really', 'gorgeous', 'photography', 'just', 'isnt', 'anyone', 'anything', 'to', 'maintain', 'the', 'viewers', 'interest', 'the', 'interminable', '214', 'minutes', 'of', 'run', 'time', 'one', 'is', 'left', 'the', 'question', 'wha', 'happened', 'grady', 'harp', 'december', '06']
+One star: 0.15730337078651685
+Two star: 0.1853932584269663
+Three star: 0.4943820224719101
+Four star: 0.09550561797752809
+Five star: 0.06741573033707865
+***************REVIEW************************
+['theres', 'great', 'clip', 'family', 'guy', 'episode', 'character', 'chris', 'griffen', 'comes', 'costner', 'movie', 'way', 'yowls', 'does', 'kevin', 'costner', 'keep', 'getting', 'work', 'pretty', 'much', 'sums', 'always', 'thought', 'kevins', 'pinball', 'like', 'quality', 'projects', 'every', 'dances', 'wolves', 'thought', 'fact', 'deserve', 'praise', 'awards', 'theres', 'tin', 'cup', 'acting', 'ability', 'always', 'come', 'across', 'onscreen', 'though', 'kevin', 'knows', 'wasnt', 'damned', 'good', 'looking', 'hed', 'relegated', 'background', 'scenes', 'best', 'friend', 'movies', 'hero', 'here', 'makes', 'really', 'great', 'storyline', 'far', 'many', 'side', 'plots', 'red', 'herrings', 'coincidences', 'move', 'script', 'forward', 'etc', 'puts', 'four', 'star', 'close', 'five', 'star', 'rating', 'better', 'material', 'work', 'movie', 'completely', 'concentrated', 'costners', 'serial', 'killer', 'character', 'id', 'given', 'last', 'star', 'heartbeat', 'plays', 'reviews', 'note', 'man', 'year', 'earl', 'brooks', 'while', 'money', 'respect', 'loving', 'wife', 'many', 'perks', 'mr', 'brooks', 'also', 'issues', 'likes', 'murder', 'people', 'has', 'trying', 'beat', 'demon', 'last', 'couple', 'years', 'hes', 'unfortunate', 'enough', 'yappy', 'absolutely', 'never', 'let', 'id', 'only', 'he', 'can', 'see', 'hear', 'played', 'brilliance', 'william', 'hurt', 'a', 'matter', 'fact', 'didnt', 'hurt', 'get', 'praise', 'turn', 'theres', 'talk', 'his', 'great', 'evil', 'take', 'over', 'cult', 'chat', 'boards', 'follow', 'movie', 'hurt', 'definitely', 'deserved', 'cult', 'praise', 'film', 'he', 'gets', 'hold', 'kevins', 'earl', 'brooks', 'like', 'a', 'dog', 'a', 'bone', 'never', 'lets', 'mr', 'brooks', 'thinks', 'his', 'main', 'problems', 'being', 'blackmailed', 'a', 'daughter', 'may', 'possibly', 'inherited', 'killing', 'gene', 'uh', 'uh', 'hes', 'got', 'king', 'looney', 'tunes', 'his', 'backseat', 'laughing', 'pouting', 'telling', 'earl', 'push', 'accelerator', 'through', 'metal', 'whether', 'is', 'i', 'always', 'thought', 'a', 'somewhat', 'wooden', 'acting', 'ability', 'kevin', 'costners', 'part', 'finally', 'finding', 'the', 'right', 'role', 'showcase', 'the', 'uptight', 'perfect', 'idea', 'whats', 'going', 'inside', 'killer', 'hes', 'a', 'better', 'actor', 'than', 'i', 'ever', 'gave', 'credit', 'i', 'admit', 'i', 'dont', 'know', 'i', 'know', 'that', 'the', 'entire', 'movie', 'could', 'have', 'have', 'been', 'earl', 'brooks', 'his', 'crazy', 'hell', 'alter', 'ego', 'dane', 'cook', 'a', 'blackmailer', 'has', 'idea', 'what', 'gate', 'hell', 'hes', 'just', 'opened', 'also', 'surprisingly', 'good', 'see', 'im', 'willing', 'admit', 'ive', 'judged', 'somebody', 'incorrectly', 'the', 'one', 'important', 'side', 'plot', 'id', 'have', 'been', 'than', 'happy', 'the', 'screenplay', 'the', 'detective', 'sideline', 'demi', 'moore', 'is', 'unnecessary', 'even', 'the', 'exit', 'ramp', 'added', 'regarding', 'the', 'pregnant', 'daughter', 'her', 'possible', 'tendencies', 'follow', 'her', 'dads', 'footsteps', 'thumbprint', 'seems', 'be', 'padding', 'didnt', 'need', 'with', 'this', 'movie', 'mr', 'brooks', 'is', 'a', 'goodclose', 'great', 'movie', 'of', 'kevin', 'costner', 'william', 'hurt', 'since', 'kevins', 'the', 'name', 'that', 'brings', 'the', 'googling', 'queries', 'about', 'this', 'film', 'youve', 'got', 'be', 'fair', 'and', 'give', 'the', 'majority', 'of', 'praise', 'to', 'him', 'his', 'movie', 'he', 'holds', 'it', 'together', 'and', 'he', 'do', 'movies', 'like', 'this', 'much', 'often', 'watch', 'this', 'with', 'other', 'scary', 'stuff', 'for', 'halloween', 'and', 'see', 'if', 'this', 'one', 'doesnt', 'have', 'you', 'getting', 'up', 'and', 'making', 'sure', 'the', 'doors', 'are', 'locked']
+One star: 0.16105769230769232
+Two star: 0.21394230769230768
+Three star: 0.4807692307692308
+Four star: 0.09134615384615384
+Five star: 0.052884615384615384
+***************REVIEW************************
+['dont', 'let', 'length', 'put', 'off', 'gettysburgs', 'realism', 'action', 'cinematography', 'acting', 'civil', 'war', 'ryan', 'for', 'wwii', 'movies', 'unlike', 'ryan', 'gettysburg', 'a', 'historical', 'war', 'epic', 'true', 'sense', 'faithfully', 'reproduces', 'calamitous', 'days', 'americas', 'therefore', 'world', 'history', 'different', 'would', 'world', 'if', 'the', 'south', 'won', 'one', 'for', 'the', 'critical', 'officaido']
+One star: 0.06666666666666667
+Two star: 0.2
+Three star: 0.4
+Four star: 0.1111111111111111
+Five star: 0.2222222222222222
+***************REVIEW************************
+['movie', 'graphically', 'okay', 'story', 'boring', 'really', 'hate', 'digital', 'copy', 'itunes', 'media', 'account', 'join', 'flixster', 'is', 'sucky', 'app', 'past', 'could', 'redeem', 'digital', 'copy', 'would', 'download', 'itunes', 'account', 'then', 'moved', 'your', 'copy', 'your', 'ipad', 'iphone', 'could', 'move', 'things', 'around', 'have', 'download', 'twice', 'this', 'takes', 'lot', 'time', 'you', 'are', 'allowed', 'download', 'the', 'video', '5', 'times', 'really', 'downloading', 'once', 'bad', 'enough', 'received', 'the', 'green', 'lantern', 'november', 'was', 'notified', 'that', 'digital', 'copy', 'would', 'be', 'available', 'december', '20', 'i', 'remember', 'download', 'it', 'i', 'not', 'buying', 'anymore', 'combo', 'packs', 'way', 'much', 'trouble', 'i', 'want', 'digital', 'copy', 'be', 'copy', 'not', 'flixsht', 'i', 'dont', 'want', 'to', 'be', 'prompted', 'to', 'have', 'my', 'poor', 'chase', 'connected', 'to', 'facebook']
+One star: 0.21495327102803738
+Two star: 0.1308411214953271
+Three star: 0.4672897196261682
+Four star: 0.12149532710280374
+Five star: 0.06542056074766354
+***************REVIEW************************
+['mixed', 'feelings', 'bill', 'murray', '80s', 'never', 'one', 'favorites', 'snl', 'seems', 'me', 'skated', 'show', 'though', 'easy', 'charm', 'was', 'often', 'asset', 'sometimes', 'looked', 'lazy', 'his', 'film', 'work', 'seemed', 'get', 'increasingly', 'ornery', 'his', 'sarcastic', 'attitudes', 'climaxing', 'think', 'ghostbusters', 'films', 'almost', 'seems', 'be', 'mocking', 'audience', 'rest', 'cast', 'crew', 'acknowledging', 'stupid', 'crap', 'hes', 'going', 'payoff', 'least', 'was', 'take', 'time', 'by', 'early', '90s', 'id', 'enough', 'thankfully', 'bob', 'groundhog', 'day', 'changed', 'my', 'mind', 'rest', 'history', 'hes', 'gone', 'arguably', 'best', 'most', 'interesting', 'career', 'snl', 'alum', 'eddie', 'murphy', 'steve', 'martin', 'doing', 'stupid', 'family', 'comedies', 'endless', 'sequels', 'murray', 'working', 'wes', 'anderson', 'jim', 'jarmusch', 'nuff', 'said', 'scrooged', 'comes', 'period', 'still', 'some', 'issues', 'thing', 'hes', 'supposed', 'be', 'total', 'jerk', 'throughout', 'most', 'film', 'snappy', 'one', 'liners', 'flip', 'attitude', 'just', 'help', 'make', 'scrooge', 'tv', 'executive', 'frank', 'cross', 'little', 'different', 'other', 'scrooges', 'relevant', 'today', 'least', 'feels', 'like', 'thats', 'whats', 'attempted', 'worked', 'pretty', 'well', 'really', 'until', 'the', 'ending', 'transformation', 'being', 'still', 'pretty', 'much', 'played', 'laughs', 'rings', 'rather', 'hollow', 'maybe', 'not', 'supposed', 'really', 'believe', 'care', 'long', 'weve', 'had', 'some', 'good', 'yucks', 'i', 'dunno', 'anyway', 'boils', 'exec', 'frank', 'putting', 'his', 'version', 'christmas', 'carol', 'one', 'totally', 'the', 'top', 'promoted', 'heavily', 'nobody', 'want', 'miss', 'it', 'commercials', 'intense', 'one', 'old', 'lady', 'dies', 'watching', 'the', 'ad', 'frank', 'course', 'thinks', 'good', 'idea', 'use', 'part', 'the', 'promotion', 'hes', 'nasty', 'seemingly', 'irredeemable', 'egomaniac', 'his', 'old', 'dead', 'partner', 'lew', 'john', 'forsyth', 'decides', 'send', 'familar', 'ghostly', 'friends', 'visit', 'show', 'him', 'just', 'worthwhile', 'the', 'holiday', 'he', 'sneers', 'really', 'they', 'cheroot', 'chomping', 'cabbie', 'david', 'johansen', 'past', 'sadistic', 'fairy', 'carol', 'kane', 'present', 'more', 'traditional', 'skeletal', 'yet', 'come', 'they', 'show', 'him', 'his', 'happier', 'less', 'greedy', 'life', 'with', 'girlfriend', 'karen', 'allen', 'rendition', 'still', 'around', 'give', 'younger', 'usual', 'scroogecross', 'a', 'different', 'kind', 'happy', 'ending', 'the', 'credits', 'roll', 'all', 'the', 'ways', 'he', 'could', 'help', 'others', 'etc', 'know', 'the', 'drill', 'the', 'cast', 'the', 'best', 'thing', 'about', 'even', 'im', 'still', 'a', 'bit', 'amibivalent', 'about', 'murray', 'this', 'role', 'cant', 'really', 'mind', 'any', 'movie', 'features', 'a', 'put', 'upon', 'bobcat', 'goldthwaite', 'and', 'tough', 'resigned', 'alfre', 'woodard', 'sharing', 'duties', 'the', 'bob', 'cratchit', 'figure', 'mary', 'lou', 'retton', 'tiny', 'tim', 'robert', 'mitchum', 'the', 'certifiable', 'insane', 'network', 'ceo', 'wants', 'to', 'make', 'programs', 'cats', 'and', 'best', 'of', 'all', 'lee', 'majors', 'as', 'himself', 'playing', 'a', 'commando', 'come', 'to', 'rescue', 'santa', 'in', 'the', 'faux', 'christmas', 'special', 'the', 'night', 'the', 'reindeer', 'died', 'that', 'opens', 'the', 'film', 'lee', 'this', 'is', 'one', 'santa', 'whos', 'goin', 'the', 'front', 'door', 'yeah', 'not', 'the', 'most', 'christmasy', 'holiday', 'movie', 'but', 'definitely', 'got', 'its', 'moments']
+One star: 0.11764705882352941
+Two star: 0.1329923273657289
+Three star: 0.5166240409207161
+Four star: 0.11253196930946291
+Five star: 0.12020460358056266
+***************REVIEW************************
+['awful', 'just', 'mediocre', 'acting', 'isnt', 'perfect', 'idea', 'messed', 'but', 'lay', 'back', 'enjoy']
+One star: 0.16666666666666666
+Two star: 0.16666666666666666
+Three star: 0.4166666666666667
+Four star: 0.0
+Five star: 0.25
+***************REVIEW************************
+['one', 'maintains', 'open', 'mind', 'course', 'film', 'will', 'easy', 'see', 'basics', 'christianity', 'imparted', 'viewer', 'instance', 'young', 'paralyzed', 'woman', 'convert', 'explained', 'two', 'commands', 'messiah', 'jesus', 'gave', 'his', 'followers', 'following', 'the', 'quote', 'referred', 'in', 'the', 'movie', 'transcribed', 'from', 'the', 'gospel', 'according', 'luke', 'pquotyou', 'must', 'love', 'the', 'lord', 'god', 'heart', 'soul', 'all', 'strength', 'all', 'your', 'mind', 'love', 'your', 'neighbor', 'yourself', 'quot', 'padditionally', 'the', 'movie', 'contains', 'touching', 'story', 'romance', 'roman', 'tribune', 'an', 'aristocratic', 'lady', 'can', 'say', 'all', 'honesty', 'i', 'yet', 'see', 'movie', 'contains', 'a', 'more', 'profound', 'story', 'romantic', 'love', 'a', 'man', 'a', 'woman', 'quotthe', 'robequot', 'also', 'includes', 'impressive', 'shows', 'swordplay', 'pessentially', 'this', 'film', 'holds', 'something', 'everyone']
+One star: 0.0594059405940594
+Two star: 0.21782178217821782
+Three star: 0.44554455445544555
+Four star: 0.15841584158415842
+Five star: 0.1188118811881188
+***************REVIEW************************
+['brilliant', 'splendid', 'story', 'raising', 'charlot', 'till', 'stardom', 'meticulous', 'insights', 'his', 'private', 'life', 'love', 'affairs', 'start', 'end', 'delightful', 'poignant', 'film', 'attenborough', 'repeated', 'another', 'bio', 'his', 'successful', 'film', 'gandhi', 'made', 'superb', 'movie', 'a', 'magnificent', 'cast', 'extraordinary', 'vivid', 'locations', 'robert', 'downey', 'jr', 'deserved', 'win', 'academy', 'award', 'this', 'one', 'pacino', 'deserved', 'with', 'godfather', 'ii', 'you', 'know', 'sometimes', 'the', 'logic', 'so', 'elusive']
+One star: 0.08771929824561403
+Two star: 0.15789473684210525
+Three star: 0.45614035087719296
+Four star: 0.10526315789473684
+Five star: 0.19298245614035087
+***************REVIEW************************
+['movie', 'whole', 'disappointment', 'film', 'not', 'deserve', 'hold', 'place', 'next', 'great', 'civil', 'war', 'movies', 'as', 'glory', 'gettysburg', 'lets', 'hope', 'last', 'full', 'measure', 'final', 'installment', 'this', 'trilogy', 'also', 'features', 'gettysburg', 'on', 'par', 'aforementioned', 'gettysburg', 'movie', 'part', 'felt', 'like', 'a', 'high', 'school', 'play', 'a', 'bad', 'one', 'that', 'lofty', 'highly', 'unbelievable', 'dialogue', 'combines', 'actors', 'seem', 'feel', 'uncomfortable', 'their', 'wool', 'reenactment', 'costumes', 'creating', 'overall', 'awkward', 'viewing', 'experience', 'furthermore', 'the', 'film', 'editors', 'used', 'a', 'discerning', 'eye', 'the', 'movie', 'may', 'enjoyable', 'one', 'finishes', 'feeling', 'like', 'hour', 'could', 'easily', 'been', 'cut', 'the', 'product', 'something', 'must', 'said', 'the', 'battle', 'sequences', 'however', 'often', 'impressive', 'sometimes', 'extremely', 'poignant', 'help', 'redeem', 'the', 'film', 'overall', 'however', 'one', 'could', 'find', 'another', 'way', 'spending', 'four', 'hours', 'a', 'more', 'moving', 'watchable', 'civil', 'war', 'experience', 'turn', 'gone', 'the', 'wind', 'glory', 'gettysburg', 'youre', 'less', 'likely', 'be', 'disappointed']
+One star: 0.12403100775193798
+Two star: 0.20155038759689922
+Three star: 0.49612403100775193
+Four star: 0.11627906976744186
+Five star: 0.06201550387596899
+***************REVIEW************************
+['dig', 'beck', 'time', 'time', 'popular', 'compositions', 'devils', 'haircut', 'runs', 'my', 'mind', 'cant', 'get', 'off', 'actually', 'somehow', 'dont', 'dig', 'fillers', 'early', 'albums', 'til', 'penned', 'consider', 'masterpiece', 'sea', 'change', 'those', 'wants', 'hip', 'side', 'samplings', 'funky', 'hip', 'hop', 'trippers', 'probably', 'theyve', 'panned', 'sea', 'change', 'dont', 'worry', 'understand', 'wanna', 'ask', 'why', 'beck', 'would', 'suddenly', 'shift', 'become', 'melodramatic', 'musician', 'listen', 'diversified', 'types', 'music', 'sea', 'change', 'raised', 'bar', 'my', 'respect', 'beck', 'even', 'higher', 'could', 'someone', 'hip', 'sudden', 'create', 'solemn', 'album', 'yet', 'never', 'went', 'place', 'instead', 'critics', 'raved', 'loved', 'much', 'which', 'understand', 'judgement', 'album', 'rolling', 'stones', 'even', 'gave', '5', 'stars', 'when', 'listened', 'held', 'back', 'even', 'shed', 'tear', 'listen', 'lonesome', 'tears', 'background', 'orchestra', 'lets', 'go', 'guero', 'listened', 'latest', 'release', 'i', 'very', 'much', 'anticipated', 'hip', 'side', 'over', 'album', 'already', 'i', 'was', 'right', 'almost', 'all', 'the', 'songs', 'funky', 'cool', 'yet', 'diversified', 'how', 'were', 'executed', 'whether', 'be', 'rock', 'e', 'pro', 'sunshine', 'pop', 'alternative', 'girl', 'hip', 'hop', 'que', 'onda', 'guero', 'trip', 'hop', 'sounding', 'earthquake', 'weather', 'go', 'it', 'alone', 'melancholia', 'broken', 'drum', 'psychedelia', 'missing', 'emergency', 'exit', 'world', 'black', 'tambourine', 'funk', 'hell', 'yes', 'country', 'rock', 'scarecrow', 'blues', 'farewell', 'ride', 'classic', 'rock', 'sound', 'rental', 'car', '80s', 'new', 'wave', 'themed', 'send', 'message', 'her', 'yeah', 'its', 'all', 'still', 'performances', 'all', 'the', 'songs', 'the', 'album', 'never', 'went', 'of', 'place', 'thats', 'makes', 'great', 'composer', 'musician', 'a', 'great', 'album', 'modern', 'times', 'music', 'compositions', 'like', 'are', 'rarely', 'heard', 'one', 'album', 'my', 'opinion', 'beck', 'deserves', 'all', 'the', 'respect', 'the', 'music', 'world', 'whether', 'the', 'new', 'older', 'generation', 'i', 'will', 'never', 'be', 'surprised', 'if', 'this', 'album', 'gets', 'nominated', 'in', 'the', 'grammys', 'next', 'year', 'even', 'win', 'album', 'of', 'the', 'year', 'numerous', 'awards', 'outside', 'the', 'grammys', 'frontier', 'and', 'for', 'this', 'the', 'best', 'all', 'his', 'critically', 'acclaimed', 'hip', 'albums', 'mellow', 'gold', 'odelay', 'and', 'mutations', 'he', 'sounds', 'mature', 'wackiness', 'hes', 'serious', 'calm', 'so', 'i', 'give', '5', 'stars', 'the', 'white', 'boy', 'its', 'worth', 'a', 'try', 'still', 'i', 'consider', 'sea', 'change', 'his', 'classic', 'masterpiece']
+One star: 0.14473684210526316
+Two star: 0.15789473684210525
+Three star: 0.4144736842105263
+Four star: 0.16776315789473684
+Five star: 0.11513157894736842
+***************REVIEW************************
+['ensemble', 'cast', 'delivered', 'goods', 'nailed', 'performances', 'tobey', 'jake', 'believable', 'brothers', 'natalie', 'true', 'heart', 'this', 'story', 'her', 'beloved', 'husband', 'played', 'tobey', 'goes', 'a', 'very', 'dark', 'place', 'a', 'result', 'of', 'his', 'experience', 'war', 'of', 'cast', 'members', 'strong', 'made', 'really', 'care', 'what', 'happened', 'them', 'felt', 'happinesspain', 'sadness', 'jim', 'sheridan', 'the', 'director', 'true', 'his', 'style', 'storytelling', 'theme', 'war', 'its', 'effects', 'a', 'marriagefamily', 'forgiveness', 'was', 'one', 'scene', 'he', 'natalie', 'reduced', 'tears', 'that', 'not', 'easy', 'thing', 'to', 'do', 'thus', 'the', 'five', 'star', 'rating', 'is', 'well', 'earned', 'deserved']
+One star: 0.1111111111111111
+Two star: 0.1728395061728395
+Three star: 0.5061728395061729
+Four star: 0.12345679012345678
+Five star: 0.08641975308641975
+***************REVIEW************************
+['relatively', 'short', 'length', 'somewhat', 'minimalistic', 'setting', 'hard', 'candy', 'film', 'contains', 'depth', 'complexity', 'could', 'ever', 'touch', 'review', 'story', 'centers', 'around', 'two', 'main', 'characters', 'young', 'girl', 'named', 'haley', 'ellen', 'page', 'meets', 'older', 'man', 'internet', 'patrick', 'wilson', 'confused', 'drummer', 'weezer', 'suspects', 'sexual', 'predator', 'first', 'appears', 'falling', 'his', 'act', 'taking', 'bait', 'go', 'back', 'his', 'house', 'apparent', 'viewer', 'bad', 'things', 'on', 'horizon', 'true', 'way', 'youd', 'expect', 'haley', 'soon', 'reveals', 'be', 'an', 'extremely', 'angry', 'vengeful', 'person', 'was', 'plotting', 'along', 'take', 'deep', 'seated', 'rage', 'on', 'guy', 'wont', 'go', 'specifics', 'things', 'get', 'quite', 'unpleasant', 'fellow', 'ensues', 'interesting', 'horrific', 'ballet', 'two', 'which', 'see', 'dizzying', 'array', 'different', 'emotional', 'layers', 'characters', 'one', 'brilliant', 'things', 'movie', 'really', 'designated', 'hero', 'villian', 'its', 'almost', 'like', 'sympathy', 'meant', 'shift', 'one', 'character', 'the', 'jeff', 'the', 'male', 'character', 'indeed', 'revealed', 'be', 'pretty', 'bad', 'person', 'also', 'see', 'numerous', 'moments', 'which', 'appears', 'sympathetic', 'almost', 'feel', 'sorry', 'him', 'even', 'knowing', 'kind', 'person', 'really', 'likewise', 'haley', 'an', 'obviously', 'intelligent', 'person', 'largely', 'good', 'intentions', 'driven', 'vengeance', 'rage', 'frequently', 'comes', 'frighteningly', 'psychotic', 'the', 'lines', 'good', 'evil', 'heavily', 'blurred', 'them', 'times', 'almost', 'seems', 'be', 'protagonist', 'all', 'one', 'the', 'biggest', 'themes', 'obviously', 'the', 'irrational', 'justification', 'depravity', 'haley', 'talks', 'being', 'disgusted', 'the', 'ways', 'which', 'pedophiles', 'attempt', 'justify', 'actions', 'ironically', 'she', 'the', 'thing', 'own', 'twisted', 'way', 'she', 'feels', 'she', 'doing', 'has', 'be', 'done', 'even', 'though', 'actions', 'just', 'as', 'horrific', 'we', 'see', 'two', 'characters', 'are', 'both', 'sick', 'twisted', 'albeit', 'very', 'different', 'ways', 'neither', 'see', 'own', 'hypocrisy', 'even', 'they', 'recognize', 'other', 'so', 'much', 'be', 'discussed', 'i', 'think', 'ill', 'leave', 'at', 'that', 'now', 'is', 'time', 'once', 'praise', 'the', 'incredible', 'ellen', 'page', 'many', 'know', 'as', 'the', 'lovable', 'title', 'character', 'juno', 'here', 'she', 'proves', 'amazing', 'versatility', 'nearly', 'polar', 'opposite', 'type', 'performance', 'her', 'performance', 'is', 'dark', 'venomous', 'downright', 'bone', 'chilling', 'even', 'her', 'small', 'unimposing', 'stature', 'creates', 'truly', 'terrifying', 'character', 'again', 'shes', 'a', 'complete', 'monster', 'ellen', 'an', 'incredible', 'job', 'bringing', 'many', 'different', 'levels', 'the', 'character', 'likewise', 'wilson', 'the', 'jeff', 'in', 'the', 'sense', 'that', 'he', 'is', 'never', 'completely', 'a', 'villian', 'a', 'victim', 'there', 'is', 'so', 'much', 'complexity', 'both', 'characters', 'both', 'actors', 'an', 'amazing', 'job', 'bringing', 'all', 'those', 'different', 'facets', 'together', 'in', 'their', 'respective', 'roles', 'the', 'cinematography', 'is', 'awesome', 'as', 'well', 'david', 'slade', 'recently', '30', 'days', 'night', 'is', 'characteristic', 'for', 'using', 'this', 'sort', 'jerky', 'camera', 'effect', 'give', 'the', 'sequences', 'a', 'sort', 'nightmarish', 'surrealism', 'the', 'whole', 'thing', 'almost', 'feels', 'like', 'a', 'frightening', 'dream', 'and', 'entirely', 'taking', 'place', 'two', 'characters', 'in', 'a', 'small', 'setting', 'is', 'all', 'the', 'more', 'nightmarish', 'this', 'is', 'definitely', 'not', 'an', 'easy', 'film', 'to', 'watch', 'is', 'recommended', 'to', 'the', 'faint', 'heart', 'but', 'is', 'a', 'brilliant', 'examination', 'the', 'dark', 'side', 'human', 'nature', 'whether', 'you', 'love', 'hate', 'it', 'it', 'definitely', 'stay', 'you', 'long', 'its']
+One star: 0.1405152224824356
+Two star: 0.18266978922716628
+Three star: 0.4309133489461358
+Four star: 0.11943793911007025
+Five star: 0.12646370023419204
+***************REVIEW************************
+['love', 'movie', 'was', 'happy', 'see', 'on', 'dvd', 'extras', 'just', 'movie', 'worth', 'the', 'purchase', 'price']
+One star: 0.14285714285714285
+Two star: 0.14285714285714285
+Three star: 0.5
+Four star: 0.07142857142857142
+Five star: 0.14285714285714285
+***************REVIEW************************
+['amazon', 'emailed', 'about', 'last', 'mohicans', 'coming', 'blu', 'ray', 'ecstatic', 'love', 'movie', 'also', 'gradually', 'building', 'blu', 'ray', 'library', 'since', 'purchasing', 'blu', 'ray', 'player', 'last', 'spring', 'however', 'night', 'got', 'mailed', 'house', 'decided', 'watch', 'roommates', 'was', 'sorely', 'disappointed', 'were', 'scratches', 'on', 'disc', 'yet', 'image', 'would', 'become', 'pixelated', 'entirely', 'unwatchable', 'random', 'parts', 'film', 'i', 'thought', 'was', 'my', 'blu', 'ray', 'player', 'i', 'checked', '8', 'different', 'blu', 'rays', 'another', '8', 'regular', 'dvds', 'i', 'never', 'encountered', 'the', 'problem', 'with', 'them', 'i', 'popped', 'lotm', 'back', 'however', 'the', 'pixelation', 'returned', 'all', 'means', 'get', 'the', 'movie', 'maybe', 'this', 'blu', 'ray', 'unless', 'my', 'copy', 'was', 'an', 'isolated', 'incident', 'which', 'case', 'amazon', 'please', 'send', 'a', 'working', 'copy']
+One star: 0.21904761904761905
+Two star: 0.3047619047619048
+Three star: 0.34285714285714286
+Four star: 0.05714285714285714
+Five star: 0.0761904761904762
+***************REVIEW************************
+['french', 'director', 'writer', 'francois', 'ozon', 'created', 'moody', 'compelling', 'film', 'quotswimming', 'pool', 'quot', 'charlotte', 'rampling', 'stars', 'sarah', 'morton', 'prim', 'conventional', 'english', 'mystery', 'writer', 'goes', 'south', 'france', 'search', 'inspiration', 'she', 'encounters', 'other', 'two', 'main', 'characters', 'old', 'swimming', 'pool', 'publishers', 'sensuous', 'french', 'daughter', 'julie', 'ludivine', 'sagnier', 'sarahs', 'pastoral', 'serenity', 'soon', 'disrupted', 'she', 'becomes', 'involved', 'girls', 'unconventional', 'mysterious', 'life', 'loved', 'movie', 'has', 'leisurely', 'pace', 'little', 'way', 'action', 'yet', 'found', 'mesmerizing', 'hypnotic', 'intimacy', 'experience', 'we', 'watch', 'sarah', 'write', 'new', 'book', 'utterly', 'compelling', 'vague', 'feeling', 'unease', 'fear', 'moment', 'sarah', 'arrives', 'france', 'all', 'outwardly', 'calm', 'controlled', 'events', 'gradually', 'build', 'thrilling', 'climax', 'beyond', 'an', 'ending', 'makes', 'viewer', 'reevaluate', 'entire', 'movie', 'excellent', 'musical', 'score', 'matches', 'the', 'enigmatic', 'mood', 'the', 'film', 'charlotte', 'rampling', 'perfect', 'the', 'proper', 'cranky', 'old', 'maid', 'lets', 'her', 'hair', 'big', 'way', 'she', 'under', 'the', 'spell', 'the', 'luscious', 'provence', 'countryside', 'ludivine', 'sagnier', 'seen', 'recently', 'the', 'delightful', 'tinkerbell', 'peter', 'pan', 'is', 'well', 'cast', 'the', 'in', 'your', 'face', 'amoral', 'young', 'stranger', 'changes', 'sarahs', 'life', 'think', 'is', 'mainly', 'a', 'chick', 'flick', 'although', 'there', 'is', 'ample', 'nudity', 'keep', 'the', 'guys', 'watching', 'if', 'like', 'quiet', 'atmospheric', 'movies', 'make', 'experience', 'the', 'characters', 'emotions', 'really', 'think', 'what', 'youve', 'seen', 'youll', 'enjoy', 'quotswimming', 'pool', 'quot']
+One star: 0.08465608465608465
+Two star: 0.21164021164021163
+Three star: 0.48148148148148145
+Four star: 0.10582010582010581
+Five star: 0.1164021164021164
+***************REVIEW************************
+['heat', 'night', 'oscar', 'best', 'picture', '1967', 'freshman', 'college', 'year', 'all', 'talk', 'bonnie', 'clyde', 'great', 'film', 'graduate', 'doing', 'art', 'house', 'circuit', 'wasnt', 'widely', 'seen', 'time', 'guess', 'whos', 'coming', 'dinner', 'at', 'time', 'considered', 'ostentatious', 'rich', 'black', 'man', 'marrying', 'daughter', 'rich', 'white', 'couple', 'shocking', 'fifth', 'nominee', 'year', 'rex', 'harrisons', 'doctor', 'dolittle', 'dont', 'want', 'talk', 'find', '25', 'years', 'later', 'pull', 'heat', 'night', 'get', 'kicks', 'brilliant', 'film', 'making', 'well', 'good', 'suspense', 'fine', 'acting', 'direction', 'norman', 'jewisons', 'first', 'nomination', 'direction', 'not', 'last', 'say', 'lost', 'mike', 'nichols', 'graduate', 'nichols', 'probably', 'shouldve', 'debut', 'film', 'effort', 'virginia', 'woolf', 'maybe', 'say', 'rod', 'steiger', 'acting', 'oscar', 'lost', '65', 'pawnbroker', 'doubt', 'humble', 'opinion', 'was', 'steigers', 'penultimate', 'role', 'man', 'sure', 'himself', 'yet', 'taken', 'peg', 'someone', 'better', 'will', 'never', 'show', 'insecurity', 'though', 'know', 'there', 'also', 'believe', 'watching', 'often', 'steigers', 'gillespie', 'not', 'racist', 'merely', 'dealing', 'racist', 'environment', 'mentioned', 'hes', 'the', 'new', 'sheriff', 'it', 'never', 'says', 'came', 'good', 'steiger', 'starts', 'scratch', 'builds', 'compelling', 'character', 'shows', 'bit', 'lack', 'control', 'it', 'makes', 'nervous', 'wonderfully', 'vulnerable', 'mind', 'usually', 'open', 'virgil', 'teaches', 'hence', 'whatever', 'happens', 'later', 'only', 'benefit', 'great', 'characters', 'poitier', 'was', '3', 'good', 'films', '1967', 'this', 'one', 'guess', 'whos', 'coming', 'dinner', 'sir', 'love', 'im', 'sure', 'nomination', 'time', 'came', 'his', 'votes', 'divided', 'this', 'reason', 'alone', 'think', 'wouldve', 'the', 'performances', 'lee', 'grant', 'quentin', 'dean', 'scott', 'wilson', 'was', 'cold', 'blood', 'year', 'stellar', 'the', 'great', 'old', 'gospel', 'singer', 'jester', 'hairston', 'also', 'small', 'role', 'dubbed', 'the', 'singing', 'for', 'poitiers', 'oscar', 'winning', 'role', 'lilies', 'the', 'field', 'amen', 'interesting', 'stuff', 'sterling', 'silliphants', 'screenplay', 'the', 'oscar', 'hands', 'a', 'riveting', 'narrative', 'a', 'complicated', 'book', 'the', 'greatest', 'thing', 'steigers', 'performance', 'that', 'know', 'nothing', 'his', 'background', 'the', 'film', 'begins', 'even', 'what', 'know', 'that', 'hes', 'stuck', 'a', 'place', 'he', 'doesnt', 'like', 'no', 'one', 'likes', 'him', 'there', 'suggested', 'gay', 'overtones', 'especially', 'hes', 'in', 'his', 'home', 'he', 'virgil', 'talk', 'about', 'loneliness', 'its', 'quite', 'profound', 'when', 'he', 'doesnt', 'get', 'the', 'answer', 'he', 'wants', 'theres', 'also', 'the', 'great', 'beah', 'richards', 'in', 'a', 'small', 'cameo', 'mama', 'kaleba', 'a', 'sweet', 'nonetheless', 'reprehensible', 'character', 'was', 'nominated', 'that', 'year', 'for', 'guess', 'whos', 'coming', 'dinner', 'poitiers', 'wonderfully', 'heart', 'broken', 'mother', 'a', 'fine', 'performance', 'yes', '1967', 'was', 'a', 'great', 'year', 'the', 'graduate', 'broke', 'a', 'few', 'barriers', 'guess', 'whos', 'coming', 'dinner', 'broke', 'and', 'certainly', 'bonnie', 'clyde', 'made', 'bad', 'guys', 'look', 'good', 'dont', 'forget', 'richard', 'brooks', 'in', 'cold', 'blood', 'a', 'great', 'year', 'i', 'still', 'think', 'in', 'the', 'heat', 'the', 'night', 'is', 'the', 'film', 'i', 'prefer', 'to', 'watch']
+One star: 0.1015625
+Two star: 0.1953125
+Three star: 0.5052083333333334
+Four star: 0.09375
+Five star: 0.10416666666666667
+***************REVIEW************************
+['great', 'movie', 'great', 'film', 'the', 'ability', 'view', 'film', 'anywhere', 'i', 'access', 'amazon', 'collection', 'tops', 'allow', 'to', 'watch', 'my', 'amazon', 'collection', 'my', 'nexus', '7', 'itll', 'perfect']
+One star: 0.24
+Two star: 0.16
+Three star: 0.48
+Four star: 0.04
+Five star: 0.08
+***************REVIEW************************
+['well', 'wellwe', 'get', 'learn', 'mystrious', 'woman', 'vashs', 'past', 'also', 'learn', 'little', 'his', 'past', 'planet', 'series', 'takes', 'place', 'hope', 'next', '2', 'dvds', 'we', 'learn', 'scars', 'implants', 'although', 'vash', 'gets', 'new', 'set', 'clothes', 'like', 'the', 'old', 'set', 'hope', 'gets', 'back', 'i', 'am', 'glad', 'one', 'not', 'bloody', 'have', 'the', 'bad', 'language', 'that', 'the', '5th', 'one', 'anybody', 'know', 'about', 'that', 'cat', 'whats', 'with', 'the', 'cat', 'i', 'hope', 'will', 'enjoy', 'dvd']
+One star: 0.13636363636363635
+Two star: 0.19696969696969696
+Three star: 0.5
+Four star: 0.06060606060606061
+Five star: 0.10606060606060606
+***************REVIEW************************
+['great', 'help', 'get', 'correct', 'item', 'will', 'no', 'problem', 'ever', 'ordering', 'this', 'person', 'they', 'made', 'do', 'easy', 'someone', 'computer', 'savvy', 'to', 'use', 'thanks', 'much']
+One star: 0.08695652173913043
+Two star: 0.34782608695652173
+Three star: 0.391304347826087
+Four star: 0.08695652173913043
+Five star: 0.08695652173913043
+***************REVIEW************************
+['thought', 'matt', 'dillon', 'great', 'film', 'it', 'well', 'produced', 'the', 'parts', 'burroughs', 'classic', 'evryone', 'likes', 'type', 'fringe', 'flick', 'own', 'this']
+One star: 0.10526315789473684
+Two star: 0.10526315789473684
+Three star: 0.42105263157894735
+Four star: 0.2631578947368421
+Five star: 0.10526315789473684
+***************REVIEW************************
+['favorite', 'movie', 'ever', 'theres', 'never', 'another', 'film', 'could', 'watch', 'like', 'one', 'john', 'goodman', 'have', 'or', 'least', 'nominated', 'best', 'supporting', 'actor', 'i', 'have', 'feeling', 'after', 'more', 'quotaccessiblequot', 'fargo', 'academy', 'simply', 'didnt', 'get', 'one', 'phillip', 'seymore', 'hoffman', 'brandt', 'a', 'genious', 'character', 'actor', 'and', 'this', 'is', 'one', 'his', 'greatest', 'roles', 'pdidnt', 'like', 'seein', 'donnie', 'go']
+One star: 0.15384615384615385
+Two star: 0.19230769230769232
+Three star: 0.5192307692307693
+Four star: 0.057692307692307696
+Five star: 0.07692307692307693
+***************REVIEW************************
+['cant', 'add', 'anything', 'film', 'wasnt', 'already', 'said', 'depth', 'reviews', 'i', 'say', 'b', 'movie', 'enormous', 'fun', 'kurt', 'russell', 'was', 'child', 'star', 'disney', 'perfect', 'this', 'role', 'snake', 'plissken', 'i', 'cant', 'imagine', 'many', 'actors', 'would', 'could', 'play', 'this', 'role', 'way', 'convincing', 'yet', 'also', 'appears', 'know', 'this', 'film', 'just', 'pure', 'fun', 'john', 'carpenters', 'career', 'been', 'down', 'one', 'film', 'dead', 'perfect', 'followed', 'complete', 'flop', 'great', 'thing', 'is', 'when', 'hes', 'director', 'writer', 'musician', 'is', 'very', 'other', 'classics', 'his', 'might', 'want', 'check', 'are', 'original', 'fog', 'the', 'thing', 'terrific', 'performance', 'kurt', 'russell', 'a', 'storyline', 'much', 'closer', 'the', 'novel', 'are', 'truly', 'creepy', 'films', 'with', 'excellent', 'musical', 'scores', 'still', 'stand', 'up', 'well', 'although', 'both', 'did', 'relatively', 'poorly', 'the', 'box', 'office', 'their', 'time', 'later', 'became', 'cult', 'classics', 'vhs', 'dvd', 'fyi', 'carpenter', 'also', 'did', 'a', 'wonderful', 'non', 'horror', 'films', 'worth', 'seeing', 'directed', 'music', 'the', 'heart', 'really', 'earned', 'much', 'deserved', 'recognition', 'another', 'oscar', 'nomination', 'his', 'lead', 'actress', 'meryl', 'streep', 'look', 'a', 'surprisingly', 'pleasing', 'performance', 'gloria', 'estafan', 'in', 'it', 'as', 'well', 'a', 'great', 'story', 'trying', 'teach', 'music', 'to', 'inner', 'city', 'elementary', 'kids', 'also', 'directed', 'the', 'original', 'assault', 'on', 'precinct', '13', 'a', 'suspenseful', 'well', 'executed', 'cop', 'film', 'wonderful', 'sci', 'fi', 'film', 'called', 'starman', 'was', 'kind', 'an', 'et', 'for', 'adults', 'jeff', 'bridges', 'performance', 'is', 'flawless', 'earned', 'him', 'an', 'oscar', 'nomination']
+One star: 0.14215686274509803
+Two star: 0.21568627450980393
+Three star: 0.4362745098039216
+Four star: 0.09803921568627451
+Five star: 0.10784313725490197
+***************REVIEW************************
+['good', 'movie', 'recommend', 'everybody', 'likes', 'thrillers', 'am', 'pleased', 'order', 'placed', 'price', 'paid', '6', '50', 'the', 'disc', 'came', 'amazon', 'quickly', 'good', 'packaging']
+One star: 0.0
+Two star: 0.19047619047619047
+Three star: 0.5238095238095238
+Four star: 0.19047619047619047
+Five star: 0.09523809523809523
+***************REVIEW************************
+['film', 'patty', 'jenkinsproger', 'ebert', 'listed', 'monster', 'best', 'film', 'all', '2003', 'charlize', 'theron', 'academy', 'award', 'best', 'actress', 'portrayal', 'serial', 'killer', 'aileen', 'wuornos', 'months', 'oscars', 'talk', 'amazing', 'therons', 'performance', 'how', 'best', 'performance', 'year', 'one', 'best', 'performances', 'years', 'lot', 'high', 'praise', 'raised', 'expectations', 'exactly', 'going', 'see', 'monster', 'pmonster', 'based', 'true', 'story', 'aileen', 'wuornos', 'aileen', 'lived', 'prostitute', 'florida', 'became', 'serial', 'murderer', 'killing', 'prospective', 'clients', 'film', 'opens', 'aileen', 'sitting', 'an', 'overpass', 'reflecting', 'back', 'past', 'events', 'specifically', 'meeting', 'selby', 'christina', 'ricci', 'meeting', 'selby', 'bar', 'selby', 'quickly', 'becomes', 'aileens', 'best', 'only', 'friend', 'also', 'lover', 'are', 'very', 'lonely', 'needy', 'people', 'love', 'selby', 'aileen', 'wants', 'clean', 'life', 'quit', 'hooking', 'find', 'real', 'job', 'support', 'selby', 'unfortunately', 'aileen', 'unable', 'find', 'job', 'work', 'experience', 'resume', 'huge', 'chip', 'shoulder', 'prevents', 'anyone', 'position', 'help', 'even', 'want', 'help', 'selby', 'demanding', 'telling', 'aileen', 'needs', 'start', 'hooking', 'dont', 'any', 'money', 'hungry', 'one', 'thing', 'aileen', 'do', 'support', 'pwhen', 'raped', 'one', 'clients', 'aileen', 'finally', 'snaps', 'kills', 'tells', 'selby', 'one', 'time', 'thing', 'after', 'first', 'murder', 'starts', 'killing', 'robbing', 'other', 'clients', 'this', 'point', 'we', 'start', 'see', 'aileen', 'crack', 'pressure', 'what', 'life', 'become', 'feels', 'day', 'one', 'never', 'stood', 'a', 'chance', 'she', 'sexually', 'abused', 'a', 'child', 'by', 'age', '13', 'pregnant', 'a', 'prostitute', 'this', 'her', 'life', 'she', 'no', 'opportunity', 'improve', 'her', 'life', 'her', 'experience', 'trying', 'find', 'a', 'legitimate', 'job', 'proof', 'this', 'monster', 'story', 'aileen', 'wuornos', 'it', 'is', 'brutal', 'unflinching', 'pit', 'is', 'impossible', 'separate', 'performance', 'charlize', 'theron', 'from', 'rest', 'movie', 'monster', 'is', 'built', 'raw', 'power', 'pain', 'therons', 'transformation', 'aileen', 'wuornos', 'this', 'transformation', 'both', 'physical', 'emotional', 'charlize', 'theron', 'is', 'a', 'strikingly', 'beautiful', 'woman', 'early', 'her', 'career', 'roles', 'she', 'became', 'known', 'were', 'little', 'than', 'beautiful', 'wifegirlfriendwoman', 'legend', 'bagger', 'vance', 'the', 'devils', 'advocate', 'the', 'cider', 'house', 'rules', 'monster', 'required', 'a', 'physical', 'change', 'the', 'appearance', 'therons', 'face', 'the', 'make', 'helped', 'change', 'the', 'beautiful', 'theron', 'the', 'ugly', 'wuornos', 'the', 'other', 'part', 'the', 'transformation', 'is', 'wuornos', 'was', 'a', 'tormented', 'pained', 'angry', 'woman', 'this', 'required', 'theron', 'simply', 'a', 'woman', 'acting', 'rather', 'become', 'aileen', 'wuornos', 'she', 'succeeds', 'pduring', 'the', 'first', 'half', 'the', 'movie', 'could', 'not', 'figure', 'why', 'theron', 'won', 'the', 'academy', 'award', 'best', 'actress', 'she', 'had', 'become', 'aileen', 'the', 'performance', 'was', 'nothing', 'terribly', 'impressive', 'the', 'first', 'fifty', 'minutes', 'when', 'selby', 'confronts', 'aileen', 'return', 'being', 'a', 'prostitute', 'scene', 'nailed', 'it', 'brought', 'therons', 'performance', 'an', 'entirely', 'new', 'level', 'the', 'raw', 'emotion', 'theron', 'conveyed', 'carried', 'the', 'movie', 'the', 'performance', 'became', 'emotional', 'angry', 'vulnerable', 'fearful', 'edgy', 'at', 'no', 'point', 'think', 'this', 'was', 'theron', 'acting', 'saw', 'aileen', 'wuornos', 'pthe', 'movie', 'without', 'charlize', 'theron', 'not', 'feel', 'me', 'it', 'was', 'telling', 'a', 'story', 'could', 'not', 'have', 'been', 'told', 'a', 'made', 'cable', 'because', 'the', 'content', 'movie', 'the', 'movie', 'is', 'not', 'much', 'the', 'plot', 'and', 'the', 'story', 'rather', 'about', 'the', 'performance', 'and', 'transformation', 'charlize', 'theron', 'aileen', 'wuornos', 'the', 'performance', 'makes', 'the', 'viewer', 'capable', 'of', 'feeling', 'pity', 'aileen', 'without', 'excusing', 'her', 'actions', 'i', 'dont', 'feel', 'that', 'there', 'is', 'any', 'question', 'that', 'theron', 'deserved', 'the', 'oscar', 'for', 'monster', 'p', 'joe', 'sherry']
+One star: 0.09850107066381156
+Two star: 0.16916488222698073
+Three star: 0.48394004282655245
+Four star: 0.10920770877944326
+Five star: 0.139186295503212
+***************REVIEW************************
+['rented', 'movie', 'knowing', 'would', 'cheesy', 'boy', 'we', 'way', 'worst', 'movie', 'ever', 'made', 'saying', 'know', 'huuuge', 'deborah', 'debbie', 'gibson', 'fan', 'even', 'still', 'couldnt', 'stand', 'movie', 'matter', 'many', 'drinks', 'im', 'glad', 'i', 'didnt', 'buy', 'but', 'mad', 'i', 'spent', '3', '99', 'st', 'blockbuster', 'renting', 'i', 'would', 'rather', 'my', 'hands', 'slammed', 'a', 'car', 'door', 'be', 'kneed', 'the', 'groin', 'then', 'salt', 'spilled', 'open', 'wounds', 'se', 'this', 'moive', 'no', 'plot', 'bad', 'acting', 'even', 'the', 'shark', 'had', 'bad', 'acting', 'im', 'ashamed', 'to', 'be', 'a', 'debbie', 'gibon', 'fan']
+One star: 0.1375
+Two star: 0.25
+Three star: 0.4875
+Four star: 0.0375
+Five star: 0.0875
+***************REVIEW************************
+['movie', 'great', 'real', 'twist', 'end', 'youre', 'a', 'christian', 'youll', 'love', 'movie', 'watch', 'very', 'closely', 'the', 'end', 'make', 'think']
+One star: 0.05555555555555555
+Two star: 0.16666666666666666
+Three star: 0.5555555555555556
+Four star: 0.16666666666666666
+Five star: 0.05555555555555555
+***************REVIEW************************
+['growing', 'supposedly', 'post', 'feminist', 'era', 'heard', 'quotstepford', 'wifequot', 'thrown', 'in', 'popculture', 'reference', 'severely', 'represed', 'woman', 'without', 'individual', 'this', 'dour', 'description', 'almost', 'turned', 'off', 'this', 'delightful', 'movie', 'pyet', 'college', 'intervention', 'convinced', 'give', 'title', 'another', 'chance', 'film', 'wasnt', 'actually', 'celebrating', 'women', 'offering', 'cautionary', 'tale', 'instead', 'dreary', 'horrific', 'life', 'actually', 'pthe', 'men', 'stepford', 'supposedly', 'happy', 'robotic', 'wives', 'how', 'secure', 'they', 'create', 'virtual', 'doormats', 'furthermore', 'kind', 'homelife', 'this', 'virtual', 'hell', 'create', 'children', 'undoubtedly', 'would', 'been', 'traumatized', 'ordeal', 'pmy', 'feminist', 'self', 'liked', 'movie', 'precisely', 'classic', 'script', 'exploited', 'the', 'tension', 'culture', 'politics', 'suspesfully', 'the', 'camp', 'factor', 'delightfully', 'high', 'the', 'dated', 'appearance', 'many', 'wardrobe', 'ensembles', 'adds', 'to', 'the', 'overall', 'sense', 'disorientation', 'know', 'something', 'quite', 'right', 'cannot', 'initally', 'along', 'the', 'main', 'character', 'decipher', 'it', 'untill', 'revealled', 'psure', 'movie', 'makers', 'could', 'sat', 'planned', 'filmed', 'a', 'conventional', 'inevitably', 'stodgy', 'doccumentary', 'showing', 'how', 'things', 'ultimately', 'better', 'each', 'woman', 'allowed', 'to', 'fufill', 'their', 'own', 'individual', 'dreams', 'that', 'would', 'not', 'the', 'appeal', 'audiences', 'the', '1975', 'premire', 'thereafter', 'may', 'not', 'realized', 'they', 'were', 'participating', 'in', 'a', 'feminist', 'conciousness', 'raiser', 'themselves', 'pthis', 'film', 'intended', 'the', 'audiences', 'would', 'not', 'neccessarily', 'go', 'to', 'the', 'corner', 'newstand', 'buy', 'ms', 'magazine', 'attend', 'the', 'meetings', 'the', 'local', 'feminist', 'group', 'nevertheless', 'needed', 'simmiliar', 'information', 'perhaps', 'even', 'so', 'the', 'groups']
+One star: 0.08080808080808081
+Two star: 0.21212121212121213
+Three star: 0.46464646464646464
+Four star: 0.1414141414141414
+Five star: 0.10101010101010101
+***************REVIEW************************
+['really', 'enjoyed', 'watching', 'case', 'well', 'presented', 'i', 'wonder', 'we', 'ever', 'know', 'the', 'truth', 'production', 'quality', 'seems', 'well', 'researched', 'very', 'probable']
+One star: 0.25
+Two star: 0.1
+Three star: 0.45
+Four star: 0.2
+Five star: 0.0
+***************REVIEW************************
+['grew', 'on', 'ritz', 'brothers', 'unfortunately', 'often', 'overshadowed', 'the', 'trio', 'brothers', 'the', 'era', 'comedy', 'classic', 'slapstick', 'hilarious', 'the', 'gorilla', 'one', 'their', 'better', 'movies']
+One star: 0.22727272727272727
+Two star: 0.045454545454545456
+Three star: 0.6363636363636364
+Four star: 0.09090909090909091
+Five star: 0.0
+***************REVIEW************************
+['family', 'i', 'absolutely', 'love', 'signing', 'time', 'series', '3', 'year', 'old', 'son', 'autistic', 'we', 'tried', 'everything', 'we', 'could', 'help', 'communicate', 'us', 'viewing', 'signing', 'time', 'was', 'automatically', 'imitating', 'signs', 'is', 'wonderful', 'be', 'able', 'communicate', 'my', 'son', 'signing', 'time', 'alot', 'to', 'do', 'it']
+One star: 0.2
+Two star: 0.175
+Three star: 0.4
+Four star: 0.1
+Five star: 0.125
+***************REVIEW************************
+['two', 'sisters', 'played', 'emily', 'browning', 'adrielle', 'kebbel', 'make', 'a', 'great', 'movie', 'otherwise', 'would', 'another', 'mediocre', 'horror', 'film', 'catering', 'the', 'pg13', 'crowd']
+One star: 0.0
+Two star: 0.2857142857142857
+Three star: 0.5714285714285714
+Four star: 0.047619047619047616
+Five star: 0.09523809523809523
+***************REVIEW************************
+['good', 'acting', 'makes', 'power', 'one', 'samurai', 'story', 'really', 'nice', 'watch', 'stone', 'cold', 'tadanobu', 'asano', 'makes', 'excellent', 'warrior', 'opposite', 'apparently', 'feeble', 'takeshi', 'kitano', 'bad', 'guys', 'geishas', 'aunt', 'silly', 'newphew', 'play', 'part', 'making', 'movie', 'funny', 'sad', 'violent', 'capable', 'of', 'suspending', 'real', 'world', 'good', 'movie', 'spend', 'time']
+One star: 0.13636363636363635
+Two star: 0.13636363636363635
+Three star: 0.5
+Four star: 0.1590909090909091
+Five star: 0.06818181818181818
+***************REVIEW************************
+['im', '15', 'years', 'old', 'ive', 'watching', 'movie', 'sence', 'was', '6', 'taped', 'off', 'disney', 'channel', 'our', 'tape', 'seriosly', 'falling', 'apart', 'becuase', 'weve', 'watched', 'much', 'movie', 'halarious', 'sister', 'i', 'even', 'quote', 'whole', 'movie', 'those', 'people', 'complaining', 'differances', 'book', 'cares', 'want', 'exactly', 'like', 'the', 'book', 'watch', 'at', 'all', 'movies', 'differ', 'the', 'books', 'theyre', 'based', 'though', 'one', 'maybe', 'totally', 'differant', 'its', 'still', 'good', 'why', 'earth', 'would', 'you', 'complain', 'something', 'so', 'good', 'even', 'its', 'differant']
+One star: 0.14285714285714285
+Two star: 0.21428571428571427
+Three star: 0.4857142857142857
+Four star: 0.08571428571428572
+Five star: 0.07142857142857142
+***************REVIEW************************
+['film', 'emotional', 'rollercoaster', 'watching', 'movie', 'felt', 'happiness', 'lust', 'love', 'sadness', 'anger', 'emptiness', 'finally', 'lonliness', 'didnt', 'matter', 'two', 'men', 'human', 'emotions', 'touch', 'gay', 'straight', 'bi', 'trans', 'movie', 'crossed', 'boundries', 'so', 'thankful', 'it', 'change', 'peoples', 'perceptions', 'gays', 'time', 'tell', 'heath', 'jake', 'gave', 'powerful', 'performances', 'mention', 'are', 'quite', 'easy', 'the', 'eyes', 'truly', 'felt', 'attraction', 'love', 'each', 'you', 'wanted', 'to', 'finally', 'able', 'to', 'stay', 'together', 'was', 'soooo', 'sad', 'the', 'end', 'the', 'movie', 'and', 'when', 'a', 'movie', 'touches', 'me', 'like', 'that', 'it', 'remains', 'me', 'long', 'its', 'like', 'i', 'said', 'it', 'was', 'an', 'emotional', 'rollercoaster', 'im', 'glad', 'i', 'was', 'along', 'the', 'ride']
+One star: 0.0625
+Two star: 0.21875
+Three star: 0.5208333333333334
+Four star: 0.10416666666666667
+Five star: 0.09375
+***************REVIEW************************
+['great', 'zombie', 'movie', 'a', 'lot', 'flair', 'some', 'transgender', 'issues', 'really', 'fun', 'has', 'a', 'drinking', 'game', 'the', 'special', 'features']
+One star: 0.0
+Two star: 0.2222222222222222
+Three star: 0.6666666666666666
+Four star: 0.1111111111111111
+Five star: 0.0
+***************REVIEW************************
+['not', 'terrible', 'movie', 'special', 'effects', 'great', 'acting', 'good', 'biggest', 'problem', 'movie', 'story', 'pthey', 'great', 'story', 'going', 'until', 'part', 'father', 'decided', 'walk', 'new', 'york', 'save', 'son', 'thats', 'everything', 'went', 'wrong', 'ois', 'way', 'would', 'made', 'through', 'storm', 'rescue', 'son', 'could', 'at', 'least', 'his', 'son', 'die', 'something', 'something', 'different', 'movies', 'pthe', 'special', 'effects', 'obviously', 'greatest', 'part', 'movie', 'tornados', 'floods', 'snow', 'ice', 'looks', 'amazing', 'screen', 'itself', 'worth', 'money', 'panother', 'thing', 'thats', 'good', 'disaster', 'movie', 'that', 'involved', 'other', 'countries', 'a', 'way', 'disaster', 'movies', 'focus', 'country', 'filmed', 'this', 'one', 'took', 'time', 'go', 'japan', 'places', 'europe', 'move', 'mexico', 'pwhen', 'mexicans', 'wouldnt', 'let', 'americans', 'the', 'country', 'the', 'americans', 'pulled', 'the', 'military', 'taken', 'the', 'country', 'tell', 'the', 'mexicans', 'go', 'to', 'brazil', 'partially', 'fault', 'all', 'this', 'was', 'happening', 'owe', 'america', 'much', 'moneymore', '33', 'trillion', 'dollars', 'they', 'wont', 'let', 'the', 'americans', 'the', 'country', 'even', 'though', 'hundreds', 'mexicans', 'illegaly', 'cross', 'the', 'border', 'every', 'year', 'pgood', 'movie', 'but', 'could', 'have', 'had', 'a', 'better', 'story']
+One star: 0.1456953642384106
+Two star: 0.1986754966887417
+Three star: 0.5033112582781457
+Four star: 0.08609271523178808
+Five star: 0.06622516556291391
+***************REVIEW************************
+['saw', 'excerpts', 'this', 'film', 'a', 'lecture', 'local', 'medical', 'school', 'couldnt', 'stop', 'thinking', 'families', 'autistic', 'kids', 'ive', 'seen', 'whole', 'film', 'found', 'fascinating', 'see', 'the', 'kids', 'parents', 'figure', 'how', 'accept', 'deal', 'autism', 'especially', 'liked', 'seeing', 'the', 'kids', 'talk', 'their', 'experience', 'how', 'see', 'their', 'lives', 'good', 'stuff']
+One star: 0.1590909090909091
+Two star: 0.20454545454545456
+Three star: 0.4090909090909091
+Four star: 0.11363636363636363
+Five star: 0.11363636363636363
+***************REVIEW************************
+['whats', 'say', 'chevy', 'chase', 'the', 'best', 'arrived', 'safe', 'sound', 'quick', 'delivery']
+One star: 0.0
+Two star: 0.09090909090909091
+Three star: 0.2727272727272727
+Four star: 0.2727272727272727
+Five star: 0.36363636363636365
+***************REVIEW************************
+['movie', 'definetly', 'my', 'time', 'top', '20', 'chris', 'farley', 'davis', 'spade', 'an', 'amazing', 'chemistry', 'set', 'chris', 'plays', 'loveable', 'oaf', 'as', 'david', 'plays', 'evil', 'yet', 'fun', 'guy', 'love', 'hate', 'movie', 'not', 'well', 'written', 'well', 'acted', 'back', 'both', 'guys', 'clean', 'really', 'there', 'hearts', 'non', 'stop', 'laughs', 'this', 'funny', 'film', 'suitable', 'the', 'whole', 'family', 'check', 'it', 'out']
+One star: 0.1509433962264151
+Two star: 0.20754716981132076
+Three star: 0.37735849056603776
+Four star: 0.11320754716981132
+Five star: 0.1509433962264151
+***************REVIEW************************
+['more', '60', 'years', 'has', 'popular', 'superhero', 'all', 'time', 'now', 'hes', 'returned', 'movie', 'screens', 'bryan', 'singers', 'action', 'packed', 'emotionally', 'terrific', 'triumph', 'superman', 'returns', 'question', 'best', 'superman', 'movie', 'yet', 'brandon', 'routh', 'recarnation', 'christopher', 'reeve', 'kevin', 'spacey', 'outdoes', 'gene', 'hackman', 'lex', 'luthor', 'kate', 'bosworth', 'gives', 'terrific', 'new', 'approach', 'lois', 'lane', 'spetacular', 'fantastic', 'triumph', 'one', 'the', 'best', 'summer', 'movies', 'doubt', 'brilliantly', 'riveting', 'motion', 'picture', 'event', 'pays', 'homage', 'the', 'richard', 'donner', 'films', 'terrific', 'entertainment', 'is', 'a', 'must', 'see', 'event', 'go', 'look', 'at', 'the', 'movie', 'screen', 'superman', 'returns', 'i', 'hope', 'returns', 'i', 'see', 'old', 'mans', 'sick', 'joke']
+One star: 0.12087912087912088
+Two star: 0.15384615384615385
+Three star: 0.5054945054945055
+Four star: 0.06593406593406594
+Five star: 0.15384615384615385
+***************REVIEW************************
+['went', 'see', 'lilo', 'stitch', 'expecting', 'cutesy', 'movie', 'spunky', 'hawaiian', 'child', 'her', 'alien', 'pal', 'turned', 'touching', 'story', 'what', 'means', 'be', 'family', 'takes', 'fanciful', 'story', 'an', 'alien', 'coming', 'earth', 'uses', 'discuss', 'death', 'a', 'family', 'children', 'acting', 'the', 'struggle', 'low', 'income', 'families', 'to', 'stay', 'together', 'love', 'pi', 'sincerely', 'hope', 'disney', 'continues', 'to', 'help', 'children', 'peek', 'other', 'cultures', 'way', 'a', 'child', 'the', 'inner', 'city', 'new', 'york', 'identify', 'the', 'messages', 'this', 'movie', 'learning', 'an', 'entirely', 'different', 'culture', 'is', 'literally', 'us', 'a', 'world', 'good', 'will', 'definitely', 'purchase', 'this', 'movie']
+One star: 0.10843373493975904
+Two star: 0.1927710843373494
+Three star: 0.42168674698795183
+Four star: 0.0963855421686747
+Five star: 0.18072289156626506
+***************REVIEW************************
+['season', 'two', 'a', 'great', 'season', 'roseanne', 'an', 'awesome', 'actress', 'standup', 'comedian', 'biggest', 'problem', 'that', 'seems', 'throw', 'sets', 'together', 'out', 'making', 'sure', 'everything', 'right', 'check', 'back', 'box', 'disc', '1', '2', 'you', 'look', 'the', 'discription', 'somebody', 'stole', 'gal', 'the', 'synopsis', 'be', 'house', 'grown', 'ups', 'vice', 'versa', 'another', 'problem', 'the', 'title', 'house', 'grown', 'ups', 'wrong', 'boo', 'the', 'end', 'hope', 'they', 'dont', 'make', 'mistakes', 'like', 'on', 'season', '3', 'overall', 'a', 'great', 'show', 'the', 'dvds', 'worth', 'owning', 'suggest', 'buying', 'now', 'you', 'dont', 'already', 'it']
+One star: 0.1518987341772152
+Two star: 0.17721518987341772
+Three star: 0.46835443037974683
+Four star: 0.13924050632911392
+Five star: 0.06329113924050633
+***************REVIEW************************
+['absolute', 'favourite', 'comedy', 'all', 'time', 'jim', 'carreys', 'masterpiece', 'is', 'old', 'film', 'i', 'it', 'never', 'tire', 'watching', 'a', 'dull', 'rainy', 'day', 'film', 'is', 'a', 'real', 'pick', 'the', 'hilarious', 'scenes', 'never', 'fail', 'amuse', 'the', 'fact', 'jim', 'jeff', 'play', 'two', 'absolutely', 'hapless', 'idiots', 'is', 'what', 'makes', 'film', 'great', 'you', 'cannot', 'help', 'love', 'characters']
+One star: 0.24
+Two star: 0.22
+Three star: 0.4
+Four star: 0.06
+Five star: 0.08
+***************REVIEW************************
+['was', 'really', 'peeved', 'hollywood', 'taking', 'long', 'release', 'spielbergs', 'films', 'bluray', 'lot', 'them', 'still', 'unreleased', 'digital', 'restorations', 'as', 'make', 'wait', 'almost', 'worth', 'ive', 'never', 'seen', 'film', 'old', 'restored', 'such', 'perfect', 'clarity', 'absolutely', 'grain', 'imperfections', 'sound', 'quality', 'is', 'incredible', 'you', 'want', 'best', 'copy', 'jaws', 'suck', 'get', 'bluray', 'player', 'already', 'seriously', 'hollywood', 'hurry', 'up', 'with', 'rest', 'spielbergs', 'films']
+One star: 0.16363636363636364
+Two star: 0.12727272727272726
+Three star: 0.4
+Four star: 0.16363636363636364
+Five star: 0.14545454545454545
+***************REVIEW************************
+['love', 'movie', 'my', 'husband', 'i', 'watched', 'when', 'were', 'children', 'finally', 'got', 'add', 'video', 'library', 'fun', 'all', 'ages', 'even', 'fun', 'our', 'parrot', 'loves', 'to', 'bob', 'head', 'and', 'during', 'faster', 'beat', 'songs']
+One star: 0.13333333333333333
+Two star: 0.26666666666666666
+Three star: 0.4
+Four star: 0.03333333333333333
+Five star: 0.16666666666666666
+***************REVIEW************************
+['movie', 'an', 'inpiring', 'movie', 'moviehas', 'great', 'graphicss', 'liked', 'movie', 'this', 'person', 'got', 'chaged', 'of', 'trip', 'wasnt', 'thought', 'completely']
+One star: 0.16666666666666666
+Two star: 0.3888888888888889
+Three star: 0.4444444444444444
+Four star: 0.0
+Five star: 0.0
+***************REVIEW************************
+['going', 'one', 'wondering', 'sam', 'raimi', 'would', 'able', 'top', 'wake', 'magnus', 'opus', 'spider', 'man', '2', 'bluntly', 'answer', 'listen', 'spider', 'man', '3', 'still', 'much', 'worth', 'dropping', 'hard', 'earned', 'dollars', 'spidey', '2', 'five', 'star', 'film', 'one', 'rates', 'four', 'starrer', 'remains', 'quintessentially', 'fun', 'summer', 'blockbuster', 'picture', 'special', 'effects', 'seamless', 'cg', 'venom', 'sandman', 'look', 'great', 'cg', 'spidey', 'continues', 'astound', 'admittedly', 'wasnt', 'impressed', 'goblin', 'looked', 'really', 'gotta', 'hand', 'sam', 'raimi', 'knows', 'how', 'handle', 'epic', 'superhero', 'battles', 'various', 'fabulous', 'faceoffs', 'spidey', 'takes', 'goblin', 'sandman', 'venom', 'each', 'time', 'hero', 'doesnt', 'walk', 'away', 'without', 'leaving', 'piece', 'himself', 'floor', 'even', 'though', 'knew', 'spidey', 'going', 'come', 'top', 'fight', 'scenes', 'credible', 'effective', 'enough', 'seems', 'underdog', 'each', 'encounter', 'absolutely', 'complaints', 'spidey', 'sequences', 'spider', 'man', '3', 'again', 'well', 'served', 'returning', 'supporting', 'actors', 'j', 'k', 'simmons', 'j', 'jonah', 'jameson', 'hilarious', 'sexy', 'elizabeth', 'banks', 'betty', 'brant', 'please', 'sam', 'raimis', 'buddy', 'bruce', 'campbell', 'funny', 'bit', 'maitre', 'mageina', 'tovah', 'landlords', 'daughter', 'brightens', 'room', 'endearing', 'skeletal', 'presence', 'stan', 'lee', 'provides', 'obligatory', 'cameo', 'nuff', 'said', 'bryce', 'dallas', 'howard', 'essentially', 'wasted', 'gwen', 'stacy', 'rosemary', 'harris', 'usual', 'boring', 'fount', 'wisdom', 'folks', 'have', 'already', 'mentioned', 'overstacking', 'supervillains', 'onerousness', 'multiple', 'plot', 'stories', 'say', 'phooey', 'able', 'track', 'every', 'story', 'arc', 'ease', 'keep', 'every', 'character', 'opinion', 'villains', 'drawn', 'enough', 'depth', 'given', 'ample', 'back', 'stories', 'virtue', 'having', 'every', 'film', 'installment', 'harry', 'osbourne', 'comes', 'layered', 'antagonist', 'james', 'franco', 'normally', 'dislike', 'good', 'flint', 'marko', 'aka', 'sandman', 'thomas', 'haden', 'church', 'immediately', 'revealed', 'be', 'sympathetic', 'character', 'audience', 'early', 'becomes', 'privy', 'core', 'motivation', 'eddie', 'brock', 'puny', 'miscast', 'topher', 'grace', 'however', 'just', 'plain', 'bad', 'egg', 'theres', 'chance', 'newcomers', 'spidey', 'mythos', 'might', 'be', 'befuddled', 'abrupt', 'introduction', 'inky', 'wriggly', 'alien', 'symbiote', 'furthermore', 'raimi', 'ignores', 'symbiote', 'lengthy', 'film', 'moments', 'opting', 'leave', 'residence', 'peters', 'cramped', 'apartment', 'bide', 'time', 'raimi', 'seemingly', 'relying', 'fans', 'knowledge', 'alien', 'costume', 'carry', 'day', 'lieu', 'actually', 'sketching', 'sort', 'backstory', 'theres', 'much', 'backstory', 'the', 'comic', 'book', 'source', 'secret', 'wars', 'anyone', 'hands', 'spideys', 'favorite', 'superhero', 'like', 'host', 'kids', 'the', 'plethora', 'superheroes', 'peter', 'parker', 'whom', 'identified', 'the', 'most', 'was', 'mere', 'tadpole', 'makes', 'such', 'rootable', 'underdog', 'character', 'stan', 'lee', 'the', 'ensuing', 'comic', 'book', 'writers', 'portrayed', 'a', 'sensitive', 'teenyoung', 'man', 'relatable', 'dilemmas', 'ekes', 'small', 'victories', 'life', 'even', 'trounces', 'heinous', 'superbaddies', 'film', 'strays', 'away', 'makes', 'likable', 'the', 'start', 'spider', 'man', '3', 'finds', 'a', 'smug', 'peter', 'parker', 'spiderman', 'become', 'the', 'toast', 'new', 'york', 'his', 'image', 'displayed', 'giant', 'monitors', 'lauded', 'the', 'newspapers', 'excepting', 'the', 'bugle', 'course', 'he', 'even', 'presented', 'the', 'key', 'the', 'city', 'same', 'scene', 'also', 'comes', 'act', 'peter', 'spidey', 'blatantly', 'disrespectful', 'towards', 'mary', 'jane', 'fact', 'the', 'success', 'his', 'spider', 'man', 'persona', 'blinds', 'whats', 'going', 'mary', 'jane', 'whose', 'career', 'isnt', 'flowing', 'smoothly', 'understandibly', 'not', 'long', 'm', 'j', 'begins', 'feel', 'peter', 'isnt', 'suffice', 'say', 'loved', 'every', 'spidey', 'sequence', 'are', 'moments', 'where', 'genuinely', 'not', 'like', 'peter', 'parker', 'put', 'another', 'way', 'dissatisfaction', 'peter', 'actually', 'a', 'nod', 'towards', 'kirsten', 'dunsts', 'effective', 'performance', 'shes', 'easily', 'the', 'best', 'actor', 'this', 'film', 'so', 'likable', 'as', 'mary', 'jane', 'that', 'every', 'thoughtless', 'act', 'peter', 'towards', 'her', 'exacerbated', 'resentment', 'towards', 'the', 'dude', 'im', 'just', 'not', 'kosher', 'plotlines', 'necessitating', 'my', 'hero', 'act', 'like', 'obtuse', 'jerk', 'since', 'im', 'crapping', 'on', 'the', 'poor', 'guy', 'i', 'must', 'say', 'the', 'hairstyle', 'he', 'chooses', 'under', 'the', 'symbiotes', 'influence', 'less', 'cool', 'was', 'supposed', 'emphasize', 'his', 'dark', 'turn', 'it', 'failed', 'miserably', 'the', 'film', 'my', 'eyes', 'lost', 'some', 'credibility', 'the', 'audience', 'including', 'burst', 'laughing', 'every', 'time', 'that', 'goofy', 'downswept', 'hairstyle', 'popped', 'unintended', 'laughter', 'not', 'a', 'good', 'thing', 'i', 'want', 'reiterate', 'spider', 'man', 'my', 'favorite', 'superhero', 'he', 'got', 'thru', 'junior', 'high', 'school', 'middle', 'school', 'to', 'youngsters', 'high', 'school', 'i', 'hated', 'to', 'criticize', 'this', 'movie', 'it', 'wouldve', 'wrong', 'to', 'merely', 'leave', 'it', 'as', 'a', 'glowing', 'review', 'to', 'ignore', 'the', 'warts', 'yet', 'with', 'flaws', 'spider', 'man', '3', 'still', 'very', 'much', 'a', 'sensational', 'movie', 'i', 'feel', 'that', 'ultimately', 'its', 'positives', 'outweigh', 'the', 'negatives', 'tobey', 'maguire', 'is', 'the', 'definitive', 'peter', 'parker', 'no', 'matter', 'what', 'i', 'cant', 'really', 'envision', 'anyone', 'else', 'in', 'that', 'role', 'dunst', 'as', 'always', 'is', 'superlative', 'very', 'lovely', 'oozes', 'acting', 'talent', 'the', 'complex', 'story', 'in', 'spite', 'hitting', 'a', 'few', 'false', 'notes', 'keep', 'involved', 'the', 'action', 'scenes', 'are', 'eyepopping', 'nothing', 'all', 'wrong', 'with', 'them', 'sam', 'raimi', 'playfully', 'continues', 'to', 'throw', 'in', 'insane', 'gag', 'bits', 'incidental', 'low', 'key', 'humor', 'for', 'some', 'reason', 'i', 'like', 'the', 'doorknob', 'bit', 'theres', 'even', 'several', 'brief', 'dance', 'numbers', 'its', 'to', 'you', 'to', 'laugh', 'go', 'with', 'it', 'groan', 'grouse', 'most', 'hopefully', 'do', 'the', 'former']
+One star: 0.10260115606936417
+Two star: 0.13872832369942195
+Three star: 0.541907514450867
+Four star: 0.1199421965317919
+Five star: 0.0968208092485549
+***************REVIEW************************
+['first', 'saw', 'movie', 'came', 'years', 'ago', 'loved', 'then', 'i', 'love', 'now', 'you', 'fan', 'ballet', 'dance', 'baryshnikov', 'it', 'a', 'must', 'story', 'follows', 'era', 'the', 'russian', 'cold', 'war', 'the', 'isolation', 'dancers', 'went', 'it', 'a', 'likely', 'story', 'its', 'time', 'dancers', 'controlled', 'a', 'harsh', 'government', 'people', 'wanting', 'escape', 'the', 'life', 'poverty', 'government', 'control', 'finding', 'freedom', 'somehow', 'watch', 'baryshnikov', 'dance', 'anything', 'is', 'wonderful']
+One star: 0.1896551724137931
+Two star: 0.13793103448275862
+Three star: 0.4482758620689655
+Four star: 0.05172413793103448
+Five star: 0.1724137931034483
+***************REVIEW************************
+['this', 'film', 'not', 'issued', 'a', 'blu', 'ray', 'special', 'edition', 'will', 'never', 'know', 'sucker', 'punch', 'blu', 'ray', 'silver', 'streak', 'not', 'is', 'justice', 'the', 'taste', 'in', 'that']
+One star: 0.12
+Two star: 0.4
+Three star: 0.36
+Four star: 0.12
+Five star: 0.0
+***************REVIEW************************
+['bought', 'sports', 'night', '2', 'reasons', 'was', 'already', 'fan', 'west', 'wing', 'sports', 'night', 'lots', 'positive', 'press', 'bad', 'move', 'press', 'greatly', 'overrated', 'comedy', 'torturously', 'predictable', 'does', 'try', 'hard', 'blend', 'drama', 'comedy', 'covers', 'interesting', 'topics', 'themes', 'ultimately', 'the', 'drama', 'sabotaged', 'the', 'less', 'average', 'comedy', 'whether', 'is', 'the', 'setting', 'simply', 'sorkin', 'improved', 'the', 'final', 'product', 'doesnt', 'compare', 'the', 'west', 'wing', 'it', 'now', 'sits', 'half', 'watched', 'my', 'tv', 'disappointed']
+One star: 0.21875
+Two star: 0.09375
+Three star: 0.359375
+Four star: 0.125
+Five star: 0.203125
+***************REVIEW************************
+['love', 'animal', 'movies', 'first', 'time', 'saw', 'andre', 'just', 'fell', 'love', 'am', 'grandmother', 'tried', 'show', 'grandchildren', 'they', 'over', 'house', 'grand', 'daughter', '10', 'finally', 'got', 'to', 'sit', 'watch', 'loved', 'got', 'for', 'for', 'christmas', 'she', 'so', 'happy', 'to', 'get', 'it', 'that', 'was', 'my', 'best', 'gift']
+One star: 0.11904761904761904
+Two star: 0.2619047619047619
+Three star: 0.35714285714285715
+Four star: 0.14285714285714285
+Five star: 0.11904761904761904
+***************REVIEW************************
+['really', 'love', 'songs', 'this', 'soundtrack', 'was', 'worth', 'every', 'penny', 'careful', 'opening', 'though', 'almost', 'broke', 'case']
+One star: 0.06666666666666667
+Two star: 0.06666666666666667
+Three star: 0.4
+Four star: 0.3333333333333333
+Five star: 0.13333333333333333
+***************REVIEW************************
+['is', 'great', 'movie', 'bought', 'movie', 'walmart', 'one', 'buck', 'years', 'ago', 'steal', 'about', 'airline', 'pilot', 'cheats', 'his', 'wife', 'continue', 'do', 'until', 'is', 'caught', 'is', 'a', 'very', 'good', 'movie', 'you', 'see', 'dont', 'pass', 'buy', 'it']
+One star: 0.2727272727272727
+Two star: 0.18181818181818182
+Three star: 0.3333333333333333
+Four star: 0.12121212121212122
+Five star: 0.09090909090909091
+***************REVIEW************************
+['ordered', 'original', '1967', 'doctor', 'dolittle', 'starring', 'rex', 'harrison', 'when', 'movie', 'arrived', 'afternoon', 'case', 'from', 'original', 'movie', 'when', 'put', 'the', 'movie', 'watch', 'i', 'found', 'it', 'the', 'newer', 'doctor', 'dolittle', 'eddie', 'murphy']
+One star: 0.06666666666666667
+Two star: 0.2
+Three star: 0.36666666666666664
+Four star: 0.1
+Five star: 0.26666666666666666
+***************REVIEW************************
+['moive', 'standard', 'low', 'budget', 'top', 'action', 'film', 'has', 'usual', 'plot', 'usual', 'action', 'am', 'here', 'talk', 'film', 'bd', 'quality', 'bd', 'quality', 'very', 'good', 'pristine', 'a', 'single', 'layer', 'bd', 'dts', 'hd', 'i', 'see', 'the', 'specs', 'amazon', 'mention', 'dts', 'hd', 'master', 'audio', 'the', 'reason', 'get', 'disc', 'also', 'the', 'reason', 'the', 'price', 'is', 'so', 'high', 'the', 'film', 'is', 'not', 'bad', 'if', 'were', 'looking', 'a', 'true', 'martial', 'arts', 'film', 'a', 'believable', 'action', 'film', 'is', 'not', 'jet', 'li', 'great', 'promise', 'most', 'his', 'movies', 'not', 'compare', 'his', 'scenes', 'lethal', 'weapon', '4', 'it', 'is', 'something', 'watch', 'not', 'something', 'keep']
+One star: 0.12087912087912088
+Two star: 0.24175824175824176
+Three star: 0.4945054945054945
+Four star: 0.10989010989010989
+Five star: 0.03296703296703297
+***************REVIEW************************
+['special', 'effects', 'by', 'far', 'of', 'best', 'seen', 'didnt', 'much', 'care', 'the', 'little', 'boys', 'attitude', 'toward', 'step', 'mother', 'the', 'world', 'around', 'i', 'also', 'thought', 'the', 'movie', 'could', 'have', 'been', 'somewhat', 'longer', 'flesh', 'the', 'plot', 'better']
+One star: 0.17647058823529413
+Two star: 0.4117647058823529
+Three star: 0.2647058823529412
+Four star: 0.08823529411764706
+Five star: 0.058823529411764705
+***************REVIEW************************
+['kip', 'raines', 'younger', 'brother', 'randall', 'memphis', 'raines', 'retired', 'professional', 'car', 'thief', 'kip', 'contracted', 'steal', '50', 'exotic', 'cars', 'over', 'los', 'angeles', 'long', 'beach', 'something', 'went', 'wrong', 'now', 'man', 'hired', 'raymond', 'calitri', 'russian', 'mobster', 'stolen', 'car', 'broker', 'wants', 'head', 'memphis', 'learns', 'comes', 'back', 'town', 'see', 'he', 'help', 'brother', 'only', 'thing', 'appease', 'calitri', 'if', 'order', 'fulfilled', 'memphis', 'must', 'deliver', 'cars', 'long', 'beach', 'harbor', 'pier', '14', '800am', 'friday', 'morning', 'button', 'watch', 'calitri', 'kill', 'kip', 'memphis', 'to', 'assemble', 'old', 'crew', 'do', 'the', 'job', 'days', 'meanwhile', 'a', 'cop', 'hounded', 'upon', 'learning', 'his', 'return', 'keeping', 'close', 'eye', 'him', 'the', 'team', 'pull', 'this', 'assignment', 'deliver', 'the', 'cars', 'time', 'will', 'kip', 'finally', 'realize', 'car', 'boosting', 'dangerous', 'and', 'can', 'memphis', 'escape', 'the', 'cops']
+One star: 0.04424778761061947
+Two star: 0.1415929203539823
+Three star: 0.45132743362831856
+Four star: 0.18584070796460178
+Five star: 0.17699115044247787
+***************REVIEW************************
+['recently', 'have', 'watching', 'movies', 'were', 'big', 'the', 'year', 'born', '1959', 'one', 'definitely', 'the', 'top', '10', 'story', 'redemption', 'betrayalanger', 'oh', 'yesa', 'chariot', 'race', 'charlton', 'heston', 'was', 'first', 'rate', 'this', 'classic', 'william', 'wyler', 'movie', '212', 'minutes', 'classic', 'cinema', '50', 'years', 'ben', 'hur', 'stood', 'a', 'monument', 'great', 'movie', 'making', 'bravo']
+One star: 0.0851063829787234
+Two star: 0.19148936170212766
+Three star: 0.574468085106383
+Four star: 0.1276595744680851
+Five star: 0.02127659574468085
+***************REVIEW************************
+['subtle', 'made', 'feel', 'way', 'rocky', 'made', 'feel', 'thought', 'actors', 'great', 'the', 'action', 'just', 'good']
+One star: 0.14285714285714285
+Two star: 0.2857142857142857
+Three star: 0.5714285714285714
+Four star: 0.0
+Five star: 0.0
+***************REVIEW************************
+['okay', 'story', 'great', 'morons', 'decided', 'jerk', 'camera', 'around', 'just', 'get', 'of', 'biz', 'didnt', 'work', 'wont', 'work', 'they', 'try', 'again', 'wont', 'rent', 'i', 'wont', 'buy', 'if', 'someone', 'gives', 'to', 'ill', 'use', 'the', 'dvd', 'a', 'frisbee', 'a', 'coaster']
+One star: 0.19444444444444445
+Two star: 0.2777777777777778
+Three star: 0.3888888888888889
+Four star: 0.08333333333333333
+Five star: 0.05555555555555555
+***************REVIEW************************
+['would', 'liked', 'see', 'be', 'up', 'date', 'a', 'bit', 'comprehensive', 'dvd', 'case', 'lists', 'dj', 'krush', 'a', 'fan', 'one', 'djs', 'featured', 'very', 'quickly', 'shows', 'mentions', 'name', 'i', 'thought', 'a', 'bit', 'cheap', 'piece', 'dj', 'shadow', 'interesting', 'i', 'like', 'different', 'aspects', 'movie', 'covers', 'technical', 'social', 'history', 'well', 'as', 'a', 'taste', 'the', 'personalities', 'dvd', 'extras', 'interesting', 'particularly', 'of', 'the', 'instructional', 'stuff', 'almost', 'makes', 'want', 'to', 'get', 'some', 'equipment', 'and', 'try', 'it']
+One star: 0.09090909090909091
+Two star: 0.13636363636363635
+Three star: 0.5303030303030303
+Four star: 0.13636363636363635
+Five star: 0.10606060606060606
+***************REVIEW************************
+['first', 'let', 'say', 'a', 'huge', 'harlan', 'coben', 'fan', 'love', 'love', 'love', 'myron', 'bolitar', 'series', 'hooked', 'reading', 'woods', 'have', 'read', 'every', 'book', 'hes', 'written', 'already', 'read', 'tell', 'one', 'i', 'wouldve', 'turned', 'movie', 'i', 'guess', 'just', 'not', 'my', 'cup', 'tea', 'i', 'kindly', 'gave', 'three', 'stars', 'of', 'cobens', 'talent', 'writing', 'movie', 'was', 'a', 'little', 'hard', 'follow', 'my', 'opinion', 'book', 'excellent', 'love', 'all', 'twists', 'the', 'plot', 'ending', 'read', 'the', 'book', 'find', 'harlan', 'coben', 'the', 'movie']
+One star: 0.18309859154929578
+Two star: 0.2112676056338028
+Three star: 0.4084507042253521
+Four star: 0.08450704225352113
+Five star: 0.11267605633802817
+***************REVIEW************************
+['at', 'times', 'fun', 'film', 'likeable', 'jason', 'segel', 'ed', 'helms', 'starring', 'roles', 'includes', 'susan', 'sarandon', 'role', 'their', 'mother', 'would', 'believe', 'even', 'rae', 'dawn', 'chong', 'makes', 'appearance', 'saw', 'cast', 'line', 'figured', 'going', 'sure', 'winner', 'segel', 'helms', 'usually', 'reliable', 'lot', 'laughs', 'im', 'fan', 'saradon', 'well', 'well', 'seemed', 'like', 'sure', 'thing', 'many', 'ways', 'wasnt', 'first', 'other', 'reviewers', 'mention', 'overuse', 'hand', 'cam', 'effect', 'correct', 'is', 'frequent', 'distracting', 'started', 'feel', 'like', 'bad', 'tmz', 'episode', 'a', 'was', 'also', 'completely', 'unnecessary', 'hard', 'imagine', 'the', 'filmmakers', 'thought', 'would', 'be', 'a', 'good', 'idea', 'perhaps', 'trying', 'inject', 'ed', 'helms', 'the', 'office', 'sort', 'feel', 'so', 'did', 'work', 'in', 'my', 'opinion', 'wont', 'say', 'much', 'the', 'storyline', 'except', 'it', 'deals', 'everyday', 'issues', 'like', 'love', 'life', 'work', 'are', 'a', 'few', 'genuinely', 'funny', 'moments', 'though', 'probably', 'enough', 'considering', 'the', 'overall', 'capabilities', 'this', 'cast', 'also', 'wished', 'saradons', 'role', 'would', 'been', 'significant', 'at', 'least', 'better', 'incorporated', 'the', 'main', 'storyline', 'still', 'i', 'think', 'the', 'film', 'is', 'worth', 'watching', 'you', 'nothing', 'else', 'do', 'lazy', 'saturday', 'afternoon', 'i', 'would', 'probably', 'give', 'it', 'three', 'a', 'half', 'stars', 'half', 'stars', 'were', 'possible']
+One star: 0.1834319526627219
+Two star: 0.1893491124260355
+Three star: 0.44970414201183434
+Four star: 0.07692307692307693
+Five star: 0.10059171597633136
+***************REVIEW************************
+['presentation', 'classic', 'james', 'whale', '1931', 'film', 'quotfrankensteinquot', 'perfect', 'representation', 'this', 'fine', 'film', 'even', 'beating', 'the', 'nearly', 'perfect', 'laser', 'disk', 'presentation', 'several', 'years', 'back', 'the', 'documentary', 'the', 'making', 'frankenstein', 'david', 'skal', 'master', 'horror', 'historian', 'worth', 'the', 'price', 'the', 'dvd', 'alone', 'only', 'the', 'movie', 'represented', 'crystal', 'clarity', 'the', 'art', 'gallery', 'commentary', 'add', 'this', 'great', 'product', 'must', 'for', 'film', 'fans', 'monster', 'buffs']
+One star: 0.03389830508474576
+Two star: 0.23728813559322035
+Three star: 0.5084745762711864
+Four star: 0.06779661016949153
+Five star: 0.15254237288135594
+179
+{'few', 'than', "mightn't", 'by', "that'll", 'just', 'my', 'yours', 'own', 'him', 'has', 'between', 'isn', 'having', 'a', 'being', 'y', 'had', "doesn't", 'what', 'any', 'after', "she's", 'these', 'both', 'weren', 'your', "didn't", 'haven', 'against', 'doesn', 'all', 'and', 'we', 'this', 'have', 'until', 'whom', 'couldn', "it's", 'me', 'not', 'same', 'hadn', "you'd", 's', 'should', "shan't", 'were', 'her', 'them', 'be', 'aren', 'about', "weren't", 'during', 'off', 'the', 'those', "should've", 'themselves', 'she', 'ourselves', "don't", 'if', 'at', 'ma', 'doing', 're', 'but', 'myself', 't', 'once', 'ours', 'where', 'itself', 'before', 'now', "couldn't", "you'll", 'are', 'won', 'you', 'o', 'will', "needn't", 'does', 'in', 'to', 'am', 'below', 'it', 'through', 'there', 'again', 'hasn', 'from', 'such', 'too', 'did', 'on', 'he', 'for', 'no', "hasn't", 'of', 'll', 'because', 'theirs', 'then', "hadn't", 'who', 'other', 'some', 'into', "isn't", 'an', 'over', "wasn't", 'very', 'out', 'mightn', 'here', 'which', 'herself', 'yourself', 'is', 'under', 've', 'needn', "aren't", 'so', 'mustn', 'yourselves', 'himself', 'while', 'with', 'd', 'more', 'didn', 'i', 'up', 'or', 'wouldn', 'shan', 'his', 'its', 'they', 'don', 'was', "wouldn't", "won't", 'only', 'hers', "mustn't", 'how', 'each', 'as', 'm', 'most', 'shouldn', 'their', 'above', "haven't", 'why', 'when', 'down', 'nor', "shouldn't", 'further', 'can', 'that', "you've", 'our', "you're", 'do', 'ain', 'wasn', 'been'}

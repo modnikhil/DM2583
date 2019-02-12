@@ -3,12 +3,14 @@ import string
 import nltk.classify.util
 from nltk.classify import NaiveBayesClassifier
 from nltk.corpus import names
-# from nltk.corpus import stopwords
+from nltk.corpus import stopwords
 
 
 # File Name declaration
 train_set_file = "data/lab_train.txt"
 test_set_file = "data/lab_test.txt"
+
+# nltk.download('stopwords')
 
 train_set = open(train_set_file)
 test_set = open(test_set_file)
@@ -46,6 +48,8 @@ four_star_vocab = []
 five_star_vocab = []
 
 iterations = 0
+stop_words = set(stopwords.words('english'))
+
 for _ ,line in enumerate(train_set):
     review = line[line.find(',')+1:line.rfind(',')]
     score = float(line[line.rfind(', ')+1:].rstrip("\n"))
@@ -66,19 +70,39 @@ for _ ,line in enumerate(train_set):
     _rating = score
     # print(_rating)
     # print(review)
+
     for word in review:
-        # print(word)
-        # print("word: " + word)
-        #words = filter(None, string.lower(review.translate(string.punctuation)).split(" "))
         if(_rating >= 1 and _rating <= 1.99):
             one_star_vocab.append(word)
+            one_star_vocab.append(word)
+            one_star_vocab.append(word)
+            one_star_vocab.append(word)
+            one_star_vocab.append(word)
+            one_star_vocab.append(word)
+            one_star_vocab.append(word)
         elif(_rating >= 2 and _rating <= 2.99):
+            two_star_vocab.append(word)
+            two_star_vocab.append(word)
+            two_star_vocab.append(word)
+            two_star_vocab.append(word)
+            two_star_vocab.append(word)
+            two_star_vocab.append(word)
+            two_star_vocab.append(word)
+            two_star_vocab.append(word)
+            two_star_vocab.append(word)
             two_star_vocab.append(word)
         elif(_rating >= 3  and _rating <= 3.99):
             # add all 3 stars
             three_star_vocab.append(word)
+            three_star_vocab.append(word)
+            three_star_vocab.append(word)
+            three_star_vocab.append(word)
+            three_star_vocab.append(word)
+            three_star_vocab.append(word)
+            three_star_vocab.append(word)
         elif(_rating >= 4 and _rating <= 4.99):
             # add all 4 stars
+            four_star_vocab.append(word)
             four_star_vocab.append(word)
         else:
             # add all 5.0's 
@@ -145,8 +169,13 @@ for _ ,line in enumerate(test_set):
     review = review.lower()
     review_text = review
     review = list(filter(None, review.split(" ")))
-    print("***************")
-    print(review)
+
+    for word in review:
+        if(word in stop_words):
+            review.remove(word)
+
+    # print("***************")
+    # print(review)
     # Predict
     one_star = 0
     two_star = 0
@@ -183,7 +212,8 @@ for _ ,line in enumerate(test_set):
     five_star = 0
 
 
-
+print(len(stop_words))
+print(stop_words)
 
 
 # print("TOTAL POSITIVE (ABOVE 2.5): " + str(tot_pos))
