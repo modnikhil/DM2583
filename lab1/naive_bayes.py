@@ -1,12 +1,19 @@
 import numpy as np
 import string
+import copy
+from nltk.corpus import stopwords
 
 # File Name declaration
 train_set_file = "data/lab_train.txt"
 test_set_file = "data/lab_test.txt"
+sample_set_file = "data/lab_sample.txt"
+
 
 train_set = open(train_set_file)
 test_set = open(test_set_file)
+sample_set = open(sample_set_file)
+
+nltk.download('stopwords')
 
 """
 Things to keep track of:
@@ -35,6 +42,9 @@ ratings = [one_stars, two_stars, three_stars, four_stars, five_stars]
 num_words = 0
 score_freqs = [0, 0, 0, 0, 0]
 score_probs = [0.0, 0.0, 0.0, 0.0, 0.0]
+
+stop_words = set(stopwords.words('english'))
+
 # Enumerate through every line of the file and split into bag of words
 # TODO(?): Modularize this to accept any file
 for _ ,line in enumerate(train_set):
@@ -67,15 +77,18 @@ for _ ,line in enumerate(train_set):
 for num in range(0, 5):
     score_probs[num] = float(score_freqs[num]) / float(num_words)
 
-print(ratings)
+#print(ratings)
 print("number of words", num_words)
 print(score_freqs)
 print(score_probs)
 
+total_reviews = 0
+correct = 0
+ratings_len = [len(ratings[score].keys()) for score in range(0,5)]
 # now clean up our test_set -----
 for _ ,line in enumerate(test_set):
     review = line[line.find(',')+1:line.rfind(',')]
-    score = float(line[line.rfind(', ')+1:].rstrip("\n"))
+    actual_score = float(line[line.rfind(', ')+1:].rstrip("\n"))
     # Can fine-tune the trimming of punctutation later if accuracy is to low
     # These are just preliminary filters
     review = review.replace('<br />', " ")
@@ -86,12 +99,38 @@ for _ ,line in enumerate(test_set):
     review = review.translate(review.maketrans('','',string.punctuation))
     #lowercase
     review = review.lower()
-    review = filter(None, review.split(" "))
-    # print(review)
-    _rating_index = int(score - 1)
+    review = list(filter(None, review.split(" ")))
+    #print(review)
+    
+    posteriors =  [1000000.0] *5
+    for score in range(0,5) :
+        for word in review:
+            if not word in ratings[score]:
+                ratings[score][word] = 0
+            likelihood = float(ratings[score][word] + 1.0) 
+            #print(likelihood)
+            likelihood /= float(score_freqs[score] + len(ratings[score].keys()) + 1.0)
+            #print(likelihood)
+            posteriors[score] *= (100 * likelihood)
+            #print(str(score) + ": " + str(word) + ": " + str(float(ratings[score][word])/float(score_freqs[score])))
+            
+               
+        posteriors[score] *= score_probs[score]
+    #print(review)
+    #assert(ratings_len[2] < len(ratings[2].keys()))
+    print(posteriors)
+    
+    
+    pred_score = float(1 + np.argmax(posteriors))
 
-result = 0.0
-posteriors =  [0.0, 0.0, 0.0, 0.0, 0.0]
+    print("Actual: " + str(actual_score) + " | Predicted: " + str(pred_score))
+    #if pred_score==actual_score:
+    if ((pred_score > 4.0 and actual_score > 4.0) or (pred_score <= 4.0 and actual_score <= 4.0)) :
+        correct += 1
+    total_reviews += 1
+
+print(float(correct)/float(total_reviews))
+"""
 for rating in range(1, 6):
     for ithword in review:
         # frequency = total number of times a word has been rated a score (1-5)
@@ -99,5 +138,5 @@ for rating in range(1, 6):
         # amount of times this word has been rated 1.000 - 5.00 divided by the total amount it's been  rated in all 
 
 likelyhood for 1/ score frequencies 
-
+"""
 
