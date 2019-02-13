@@ -105,7 +105,7 @@ for _ ,line in enumerate(train_set):
             four_star_vocab.append(word)
             four_star_vocab.append(word)
         else:
-            # add all 5.0's 
+            # add all 5.0's
             five_star_vocab.append(word)
 
     # print("n_list: " + str(negative_vocab))
@@ -149,14 +149,15 @@ train_set = one_star_features + two_star_features + three_star_features + four_s
 classifier = NaiveBayesClassifier.train(train_set)
 tot_pos = 0
 tot_neg = 0
-
+correct = 0
+total = 0
 def features(words):
     return dict([(word, True) for word in words])
 
 # Clean up test_set
 for _ ,line in enumerate(test_set):
     review = line[line.find(',')+1:line.rfind(',')]
-    score = float(line[line.rfind(', ')+1:].rstrip("\n"))
+    actual_score = float(line[line.rfind(', ')+1:].rstrip("\n"))
     # Can fine-tune the trimming of punctutation later if accuracy is to low
     # These are just preliminary filters
     review = review.replace('<br />', " ")
@@ -198,13 +199,41 @@ for _ ,line in enumerate(test_set):
             four_star += 1
         if classResult  == 'five':
             five_star += 1
-    print("***************REVIEW************************")
-    print(review)
-    print('One star: ' + str(float(one_star)/len(review)))
-    print('Two star: ' + str(float(two_star)/len(review)))
-    print('Three star: ' + str(float(three_star)/len(review)))
-    print('Four star: ' + str(float(four_star)/len(review)))
-    print('Five star: ' + str(float(five_star)/len(review)))
+
+    one_star = float(one_star)/len(review)
+    two_star = float(two_star)/len(review)
+    three_star = float(three_star)/len(review)
+    four_star = float(four_star)/len(review)
+    five_star = float(five_star)/len(review)
+    negative = False
+    positive  = False
+    neg_sum = one_star  + two_star + three_star
+    pos_sum = four_star + five_star
+    if(three_star > neg_sum and three_star > pos_sum):
+        if( neg_sum > pos_sum ):
+            negative = True
+        else:
+            positive = True
+    elif(pos_sum > neg_sum):
+        positive = True
+    elif(neg_sum > pos_sum):
+        negative = True
+
+    if(actual_score <= 4 and negative):
+        correct += 1
+    elif(actual_score > 4 and positive):
+        correct += 1
+    total += 1
+    positive = False
+    negative = False
+
+    # print("***************REVIEW************************")
+    # print(review)
+    # print('One star: ' + str(float(one_star)/len(review)))
+    # print('Two star: ' + str(float(two_star)/len(review)))
+    # print('Three star: ' + str(float(three_star)/len(review)))
+    # print('Four star: ' + str(float(four_star)/len(review)))
+    # print('Five star: ' + str(float(five_star)/len(review)))
     one_star = 0
     two_star = 0
     three_star = 0
@@ -212,8 +241,13 @@ for _ ,line in enumerate(test_set):
     five_star = 0
 
 
-print(len(stop_words))
-print(stop_words)
+
+
+print("******************ACCURACY******************")
+print(correct / total)
+
+# print(len(stop_words))
+# print(stop_words)
 
 
 # print("TOTAL POSITIVE (ABOVE 2.5): " + str(tot_pos))
