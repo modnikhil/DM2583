@@ -102,6 +102,6 @@ for review_idx ,review in enumerate(evaluation_set):
         posteriors[score] *= priors[score]
     
     # Take argmax of posteriors to classify review
-    pred_score = float(np.argmax(posteriors))
-    #print("Line Num: ", review_idx, " Score: ", pred_score)
+    pred_class = "Positive" if float(np.argmax(posteriors)) == 0.0 else "Negative"
+    print("Review #", review_idx, " Class: " + pred_class)
 
