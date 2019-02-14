@@ -85,6 +85,7 @@ print("Test Set Accuracy:", float(correct)/float(total_reviews))
 
 ###### EVALUATION SET ######
 for review_idx ,review in enumerate(evaluation_set):
+    # Remove punctuation, lowercase, split sentence into words
     review = review.translate(review.maketrans('','',string.punctuation)).lower()
     review = list(filter(None, review.split(" ")))
     
