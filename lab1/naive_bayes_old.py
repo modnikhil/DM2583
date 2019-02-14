@@ -1,6 +1,7 @@
 import numpy as np
 import string
 import copy
+import nltk
 from nltk.corpus import stopwords
 
 # File Name declaration
@@ -11,7 +12,7 @@ test_set_file = "data/lab_test.txt"
 train_set = open(train_set_file)
 test_set = open(test_set_file)
 
-# nltk.download('stopwords')
+nltk.download('stopwords')
 
 """
 Things to keep track of:
@@ -60,24 +61,16 @@ for _ ,line in enumerate(train_set):
     review = review.lower()
     review = filter(None, review.split(" "))
     # print(review)
-    _rating =  int(score)
     _rating_index = int(score - 1)
+
     for word in review:
         if word in ratings[_rating_index]:
-            if(_rating == 1):
-                ratings[_rating_index][word] += 6
-            elif(_rating == 2):
-                ratings[_rating_index][word] += 6
-            elif(_rating == 3):
-                ratings[_rating_index][word] += 6
-            elif(_rating == 4):
-                ratings[_rating_index][word] += 6
-            else:
-                # five stars
-                ratings[_rating_index][word] += 6
-
+            ratings[_rating_index][word] += 1
         else:
-            ratings[_rating_index][word] = 6
+            ratings[_rating_index][word] = 1
+        for next_score in range(1,5):
+            if word not in ratings[(_rating_index + next_score) % 5]:
+                ratings[(_rating_index + next_score) % 5][word] = 0
         num_words += 1
         score_freqs[_rating_index] += 1
 
@@ -110,31 +103,31 @@ for _ ,line in enumerate(test_set):
     review = review.lower()
     review = list(filter(None, review.split(" ")))
     #print(review)
-
+    
     posteriors =  [1000000.0] *5
     for score in range(0,5) :
         for word in review:
             if not word in ratings[score]:
                 ratings[score][word] = 0
-            likelihood = float(ratings[score][word] + 1.0)
+            likelihood = float(ratings[score][word] + 1.0) 
             #print(likelihood)
             likelihood /= float(score_freqs[score] + len(ratings[score].keys()) + 1.0)
             #print(likelihood)
             posteriors[score] *= (100 * likelihood)
             #print(str(score) + ": " + str(word) + ": " + str(float(ratings[score][word])/float(score_freqs[score])))
-
-
+            
+               
         posteriors[score] *= score_probs[score]
     #print(review)
     #assert(ratings_len[2] < len(ratings[2].keys()))
     print(posteriors)
-
-
+    
+    
     pred_score = float(1 + np.argmax(posteriors))
 
     print("Actual: " + str(actual_score) + " | Predicted: " + str(pred_score))
     #if pred_score==actual_score:
-    if ((pred_score > 4.0 and actual_score > 4.0) or (pred_score <= 4.0 and actual_score <= 4.0)) :
+    if ((pred_score > 3.0 and actual_score > 3.0) or (pred_score <= 3.0 and actual_score <= 3.0)) :
         correct += 1
     total_reviews += 1
 
@@ -144,8 +137,8 @@ for rating in range(1, 6):
     for ithword in review:
         # frequency = total number of times a word has been rated a score (1-5)
         # divide frequency by the number of times THAT rating has been given to any word
-        # amount of times this word has been rated 1.000 - 5.00 divided by the total amount it's been  rated in all
+        # amount of times this word has been rated 1.000 - 5.00 divided by the total amount it's been  rated in all 
 
-likelyhood for 1/ score frequencies
+likelyhood for 1/ score frequencies 
 """
 
