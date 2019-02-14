@@ -175,8 +175,6 @@ for _ ,line in enumerate(test_set):
         if(word in stop_words):
             review.remove(word)
 
-    # print("***************")
-    # print(review)
     # Predict
     one_star = 0
     two_star = 0
