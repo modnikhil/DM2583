@@ -1,6 +1,7 @@
 import numpy as np
 import string
 import copy
+import nltk
 from nltk.corpus import stopwords
 
 # File Name declaration
@@ -69,6 +70,9 @@ for _ ,line in enumerate(train_set):
             ratings[_rating_index][word] += 1
         else:
             ratings[_rating_index][word] = 1
+        for next_score in range(1,5):
+            if word not in ratings[(_rating_index + next_score) % 5]:
+                ratings[(_rating_index + next_score) % 5][word] = 0
         num_words += 1
         score_freqs[_rating_index] += 1
 
@@ -125,7 +129,7 @@ for _ ,line in enumerate(test_set):
 
     print("Actual: " + str(actual_score) + " | Predicted: " + str(pred_score))
     #if pred_score==actual_score:
-    if ((pred_score > 4.0 and actual_score > 4.0) or (pred_score <= 4.0 and actual_score <= 4.0)) :
+    if ((pred_score > 3.0 and actual_score > 3.0) or (pred_score <= 3.0 and actual_score <= 3.0)) :
         correct += 1
     total_reviews += 1
 
