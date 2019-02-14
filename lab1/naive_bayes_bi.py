@@ -7,13 +7,11 @@ from nltk.corpus import stopwords
 # File Name declaration
 train_set_file = "data/lab_train.txt"
 test_set_file = "data/lab_test.txt"
-sample_set_file = "data/lab_sample.txt"
 evaluation_set_file = "data/lab_evaluation.txt"
 
 
 train_set = open(train_set_file)
 test_set = open(test_set_file)
-sample_set = open(sample_set_file)
 evaluation_set = open(evaluation_set_file)
 
 nltk.download('stopwords')

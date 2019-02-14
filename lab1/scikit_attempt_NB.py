@@ -11,12 +11,10 @@ import numpy as np
 
 train_set_file = "data/lab_train.txt"
 test_set_file = "data/lab_test.txt"
-sample_set_file = "data/lab_sample.txt"
 
 
 train_set = open(train_set_file)
 test_set = open(test_set_file)
-sample_set = open(sample_set_file)
 
 data = []
 data_labels = []
