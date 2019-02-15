@@ -1,5 +1,8 @@
 import numpy as np
 import string
+import pandas as pd
+import matplotlib.pyplot as plt
+import tkinter
 
 # File Name declaration
 train_set_file = "data/lab_train.txt"
@@ -15,6 +18,10 @@ ratings = [dict(), dict()]
 num_words = 0
 score_freqs = [0] * len(ratings)
 priors = [0.0] * len(ratings)
+
+# Confusion matrix lists
+class_true = []
+class_pred = []
 
 ###### TRAINING SET #######
 # For each review, remove the noise, and populate our naive bayes table
@@ -75,6 +82,8 @@ for _ ,line in enumerate(test_set):
     
     # Take argmax of posteriors to classify review
     pred_score = float(np.argmax(posteriors))
+    class_true.append("Positive" if actual_score == 0 else "Negative")
+    class_pred.append("Positive" if pred_score == 0 else "Negative")
 
     # Accuracy evaluators
     total_reviews += 1
@@ -105,3 +114,24 @@ for review_idx ,review in enumerate(evaluation_set):
     pred_class = "Positive" if float(np.argmax(posteriors)) == 0.0 else "Negative"
     print("Review #", review_idx, " Class: " + pred_class)
 
+####### CONFUSION MATRIX EVALUATION ########
+y_actu = pd.Series(class_true, name='Actual')
+y_pred = pd.Series(class_pred, name='Predicted')
+df_confusion = pd.crosstab(y_actu, y_pred, rownames=['Actual'], colnames=['Predicted'])
+df_conf_norm = df_confusion / df_confusion.sum(axis=1)
+
+print(df_confusion)
+
+def plot_confusion_matrix(df_confusion, title='Confusion Matrix', cmap=plt.cm.gray_r):
+    plt.matshow(df_confusion, cmap=cmap)
+    plt.title(title)
+    plt.colorbar()
+    tick_marks = np.arange(len(df_confusion.columns))
+    plt.xticks(tick_marks, df_confusion.columns, rotation=45)
+    plt.yticks(tick_marks, df_confusion.index)
+    plt.tight_layout()
+    plt.ylabel(df_confusion.index.name)
+    plt.xlabel(df_confusion.columns.name)
+
+plot_confusion_matrix(df_conf_norm)
+plt.show()
