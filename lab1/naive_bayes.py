@@ -123,7 +123,7 @@ df_conf_norm = df_confusion / df_confusion.sum(axis=1)
 print(df_confusion)
 
 def plot_confusion_matrix(df_confusion, title='Confusion Matrix', cmap=plt.cm.gray_r):
-    plt.matshow(df_confusion, cmap=cmap)
+    plt.matshow(df_confusion, cmap=cmap)    
     plt.title(title)
     plt.colorbar()
     tick_marks = np.arange(len(df_confusion.columns))
