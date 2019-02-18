@@ -8,6 +8,12 @@ import matplotlib.pyplot as plt
 import itertools
 from sklearn.metrics import confusion_matrix
 from sklearn import datasets
+from sklearn.preprocessing  import LabelEncoder
+from sklearn.metrics import recall_score
+from imblearn.over_sampling import SMOTE
+from sklearn.ensemble import RandomForestClassifier
+import pandas as pd
+from imblearn.pipeline import make_pipeline
 
 # sources: https://github.com/iolucas/nlpython/blob/master/blog/sentiment-analysis-analysis/svm.ipynb
 # https://medium.com/nlpython/sentiment-analysis-analysis-part-2-support-vector-machines-31f78baeee09
@@ -50,6 +56,8 @@ def parse_files(file_set, labels_list):
 
 train_labels = []
 review_tokens = parse_files(train_set, train_labels)
+# print(train_labels)
+# print("review tokens",review_tokens)
 #print(review_list[0])
 #print(review_list[0])
 
@@ -68,13 +76,21 @@ onehot_enc.fit(review_tokens)
 
 # split data into training and test set with train_test_split function
 x_train, x_test, y_train, y_test = train_test_split(review_tokens, train_labels, test_size=100, random_state=1234, shuffle=False)
+# print("x_train", x_train)
+# print("x_test", x_test)
+# print("y_train", y_train)
+# print("y_test", y_test)
 
+sm = SMOTE(random_state=12, ratio = 1.0, kind='svm')
 
 
 
 # create svm classifier and train it
 lsvm = LinearSVC()
-lsvm.fit(onehot_enc.transform(x_train), y_train)
+lsvm = make_pipeline(sm, lsvm)
+x_train_res, y_train_res = sm.fit_sample(onehot_enc.transform(x_train), y_train)
+
+lsvm.fit(onehot_enc.transform(x_train_res), y_train_res)
 
 # get accuracy/performance of classifier
 score = lsvm.score(onehot_enc.transform(x_test), y_test)
@@ -87,13 +103,13 @@ print("SVM Classifier score: the classifier performed on the test set with an ac
 #
 
 y_pred = lsvm.predict(onehot_enc.transform(x_test))
-print(y_pred)
+# print(y_pred)
 
 
 # Compute confusion matrix
 cnf_matrix = confusion_matrix(y_test, y_pred)
 
-print(cnf_matrix)
+# print(cnf_matrix)
 
 
 def plot_confusion_matrix(cm, classes,
