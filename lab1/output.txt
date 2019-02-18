@@ -1,0 +1,3 @@
+tot_pos: 100
+tot_neg: 0
+accuracy: 50.0
