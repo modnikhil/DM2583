@@ -13,10 +13,10 @@ from sklearn.metrics import recall_score
 from imblearn.over_sampling import SMOTE
 from sklearn.ensemble import RandomForestClassifier
 import pandas as pd
-from sklearn.feature_extraction.text import TfidfTransformer
 from imblearn.pipeline import make_pipeline
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.feature_extraction.text import CountVectorizer
+from sklearn.feature_extraction.text import HashingVectorizer
 
 # sources: https://github.com/iolucas/nlpython/blob/master/blog/sentiment-analysis-analysis/svm.ipynb
 # https://medium.com/nlpython/sentiment-analysis-analysis-part-2-support-vector-machines-31f78baeee09
@@ -60,34 +60,14 @@ def parse_files(file_set, labels_list):
 train_labels = []
 review_tokens = parse_files(train_set, train_labels)
 # print(train_labels)
-# print("review tokens",review_tokens)
-#print(review_list[0])
-#print(review_list[0])
 
-# -- for testing, prints the reviews and whether their respective class/label --
-# curr = 0
-# for val in review_list:
-#     print(val)
-#     print(train_labels[curr])
-#     curr += 1
-
-
-# load the module to transform review inputs into binary vectors using MulriLabelBinarizer class
-# onehot_enc = MultiLabelBinarizer()
-# onehot_enc.fit(review_tokens)
-# enc = TfidfTransformer()
-
-onehot_enc = CountVectorizer()
+# load the module to transform review inputs into binary vectors using CountVectorizer class
+onehot_enc = HashingVectorizer()
 onehot_enc.fit(review_tokens)
 
 # split data into training and test set with train_test_split function
 x_train, x_test, y_train, y_test = train_test_split(review_tokens, train_labels, test_size=100, random_state=1234, shuffle=False)
-# # print("x_train", x_train)
-# print("x_test", x_test)
-# print("y_train", y_train)
-# print("y_test", y_test)
-
-sm = SMOTE(random_state=12, ratio = 1.0, kind='svm')
+sm = SMOTE(random_state=12, ratio = 1, kind='svm')
 
 
 
@@ -102,11 +82,6 @@ lsvm.fit(x_train_res, y_train_res)
 score = lsvm.score(onehot_enc.transform(x_test), y_test)
 
 print("SVM Classifier score: the classifier performed on the test set with an accuracy of " + str(score * 100) + " %")
-
-
-# score = lsvm.score(onehot_enc.transform(x_test), y_test)
-#print("SVM Classifier score: the classifier performed on the test set with an accuracy of " + str(score * 100) + " %")
-#
 
 y_pred = lsvm.predict(onehot_enc.transform(x_test))
 # print(y_pred)
