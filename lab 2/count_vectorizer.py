@@ -48,7 +48,7 @@ def parse_files(file_set, labels_list):
 
             review = review.lower()
             review = " ".join(filter(None, review.split()))
-            #print(review)
+
             file_list.append(review)
             if score <= 3:
                 labels_list.append('neg ')
@@ -59,33 +59,12 @@ def parse_files(file_set, labels_list):
 
 train_labels = []
 review_tokens = parse_files(train_set, train_labels)
-# print(train_labels)
-# print("review tokens",review_tokens)
-#print(review_list[0])
-#print(review_list[0])
 
-# -- for testing, prints the reviews and whether their respective class/label --
-# curr = 0
-# for val in review_list:
-#     print(val)
-#     print(train_labels[curr])
-#     curr += 1
-
-
-# load the module to transform review inputs into binary vectors using MulriLabelBinarizer class
-# onehot_enc = MultiLabelBinarizer()
-# onehot_enc.fit(review_tokens)
-# enc = TfidfTransformer()
-
-onehot_enc = CountVectorizer()
-onehot_enc.fit(review_tokens)
+vectorizer = CountVectorizer()
+vectorizer.fit(review_tokens)
 
 # split data into training and test set with train_test_split function
 x_train, x_test, y_train, y_test = train_test_split(review_tokens, train_labels, test_size=100, random_state=1234, shuffle=False)
-# # print("x_train", x_train)
-# print("x_test", x_test)
-# print("y_train", y_train)
-# print("y_test", y_test)
 
 sm = SMOTE(random_state=12, ratio = 1.0, kind='svm')
 
@@ -94,12 +73,12 @@ sm = SMOTE(random_state=12, ratio = 1.0, kind='svm')
 # create svm classifier and train it
 lsvm = LinearSVC()
 lsvm = make_pipeline(sm, lsvm)
-x_train_res, y_train_res = sm.fit_sample(onehot_enc.transform(x_train), y_train)
+x_train_res, y_train_res = sm.fit_sample(vectorizer.transform(x_train), y_train)
 
 lsvm.fit(x_train_res, y_train_res)
 
 # get accuracy/performance of classifier
-score = lsvm.score(onehot_enc.transform(x_test), y_test)
+score = lsvm.score(vectorizer.transform(x_test), y_test)
 
 print("SVM Classifier score: the classifier performed on the test set with an accuracy of " + str(score * 100) + " %")
 
@@ -108,7 +87,7 @@ print("SVM Classifier score: the classifier performed on the test set with an ac
 #print("SVM Classifier score: the classifier performed on the test set with an accuracy of " + str(score * 100) + " %")
 #
 
-y_pred = lsvm.predict(onehot_enc.transform(x_test))
+y_pred = lsvm.predict(vectorizer.transform(x_test))
 # print(y_pred)
 
 

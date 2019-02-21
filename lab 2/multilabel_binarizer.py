@@ -90,7 +90,7 @@ lsvm = LinearSVC()
 lsvm = make_pipeline(sm, lsvm)
 x_train_res, y_train_res = sm.fit_sample(onehot_enc.transform(x_train), y_train)
 
-lsvm.fit(onehot_enc.transform(x_train_res), y_train_res)
+lsvm.fit(x_train_res, y_train_res)
 
 # get accuracy/performance of classifier
 score = lsvm.score(onehot_enc.transform(x_test), y_test)
@@ -119,7 +119,7 @@ def plot_confusion_matrix(cm, classes,
     """
     #This function prints and plots the confusion matrix.
     #Normalization can be applied by setting `normalize=True`.
-    """ 
+    """
     if normalize:
         cm = cm.astype('float') / cm.sum(axis=1)[:, np.newaxis]
         print("Normalized confusion matrix")
