@@ -66,6 +66,7 @@ vectorizer.fit(review_tokens)
 # split data into training and test set with train_test_split function
 x_train, x_test, y_train, y_test = train_test_split(review_tokens, train_labels, test_size=100, random_state=1234, shuffle=False)
 
+# for unbalanced dataset
 sm = SMOTE(random_state=12, ratio = 1.0, kind='svm')
 
 
